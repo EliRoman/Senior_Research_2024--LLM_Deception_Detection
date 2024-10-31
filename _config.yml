@@ -1,4 +1,4 @@
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Senior Research 2024: LLM Deception Detection
+title: Research on Deception Detection in Large Language Models

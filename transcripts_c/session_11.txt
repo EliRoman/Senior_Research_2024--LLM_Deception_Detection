@@ -1,0 +1,21 @@
+Phase Change to Daytime: Victim - Anthony Armstrong
+Marissa Hernandez: Hello
+John Willis: Hi
+Marissa Hernandez: Eliminate the first in list?
+William Sullivan: Good morning!
+Marissa Hernandez votes for Alexander Rhodes!
+John Willis: I was thinking 2nd. 
+John Willis votes for Alexander Rhodes!
+John Willis: Morning!
+Benjamin Miller votes for Alexander Rhodes!
+Marissa Hernandez: Lets just take it from the top
+Bridget Russell: Why not
+John Willis: Sounds good.
+Bridget Russell: I believe we all have differently ordered lists
+William Sullivan: Def different orders
+John Willis: Yeah, we do. 
+Marissa Hernandez: Ok I will be more explicit 
+Marissa Hernandez: Sorry :D
+Marissa Hernandez: See you tomorrow morning :X
+Phase Change to Nighttime: Victim - Alexander Rhodes
+Players: ['Bridget Russell:mafia', 'John Willis:town', 'Marissa Hernandez:mafia', 'William Sullivan:town', 'Benjamin Miller:town']

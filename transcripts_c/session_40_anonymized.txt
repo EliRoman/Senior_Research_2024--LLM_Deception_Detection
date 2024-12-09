@@ -1,0 +1,27 @@
+Phase Change to Daytime: Victim - Suzanne Moore
+Player_A votes for Player_M!
+Player_T: hi
+Player_C: Yo what's up
+Player_M: Hello
+Player_O: Hey guys!
+Player_I: Hey
+Player_C: how we voting?
+Player_C: whodunit
+Player_A: trump 2020
+Player_O votes for Player_M!
+Player_C: lol
+Player_T: jose vote jose
+Player_M: I'm a simple woman and would never harm anyone
+Player_I votes for Player_M!
+Player_C: sorry kat
+Player_C votes for Player_M!
+Player_T votes for Player_M!
+Player_P votes for Player_M!
+Player_C: I'm a doctor, you're not looking good regardless
+Player_T: oooo
+Player_M: wrong choice guys lol but good luck
+Player_M votes for Player_C!
+Player_C: not much to go off of unless you're mafia tbh
+Player_M: im a bystander but i gotcha
+Phase Change to Nighttime: Victim - Kathryn Payne
+Players: ['Player_I:mafia', 'Player_T:town', 'Player_C:town', 'Player_A:town', 'Player_M:town', 'Player_P:town', 'Player_O:mafia']

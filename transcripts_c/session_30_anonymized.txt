@@ -1,0 +1,38 @@
+Phase Change to Daytime: Victim - Paul Gaines
+Player_I: No idea who mafia might be...
+Player_T: Cory Baron. Everyone vote Cory Baron.
+Player_Q: I say we eliminate Danielle Oliver
+Player_T: Barron is a mafia name
+Player_E: hello. not me!
+Player_G: not me!!
+Player_Q: Im with you Cory is outta there
+Player_C: Abigail Woods
+Player_T: Barron is a mafia name guys trust me
+Player_I: Nicholas Davis sounds shifty...oh wait.
+Player_E: ashley has got to go!
+Player_G: by cory
+Player_N: cory
+Player_N votes for Player_E!
+Player_U: Cory is dead weight
+Player_Q: see you later cory
+Player_C: Abigail total mafia name and awfully quit
+Player_T votes for Player_E!
+Player_I votes for Player_N!
+Player_Q votes for Player_E!
+Player_N: sorry, Cory
+Player_G votes for Player_E!
+Player_T: Italiansayswhat?
+Player_U: Jill Mcdonald AFTER CORY
+Player_U votes for Player_E!
+Player_E: I think you all should worry about Ashley. Why would she single me out?
+Player_C votes for Abigail Woods!
+Player_Q: Yes eliminate me so I can get paid and get away from you losers
+Player_I: There doesn't seem to be any evidence for it.
+Player_T: I go with my gut instinct
+Player_I: LOL I hope your doctor doesn't do the same
+Player_U: Jill has bad attitude 
+Player_E: Well good luck to you all
+Player_G: bye jill
+Player_E: no hard feelings
+Phase Change to Nighttime: Victim - Cory Barron
+Players: ['Player_C:town', 'Player_N:town', 'Player_G:town', 'Player_E:town', 'Player_U:mafia', 'Player_T:town', 'Player_I:town', 'Player_Q:town']

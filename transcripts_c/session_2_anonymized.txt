@@ -1,0 +1,28 @@
+Phase Change to Daytime: Victim - Frances Kelly
+Player_J votes for Player_L!
+Player_L: Sounds good to me. 
+Player_D: I am a bystander. dont kill me
+Player_C: Bystander here
+Player_R: i am a bystander too.
+Player_Z: Bystander too.
+Player_B: Donna Cook here, not a mafia member :)
+Player_U: Me too!
+Player_H: Bystander here also
+Player_C: Wow isn't that convenient
+Player_X: Right.
+Player_H votes for Player_D!
+Player_R votes for Player_C!
+Player_X votes for Player_D!
+Player_L votes for Player_D!
+Player_U votes for Player_D!
+Player_C votes for Player_D!
+Player_Z votes for Player_B!
+Player_B votes for Player_D!
+Player_D votes for Player_H!
+Player_B: Diane, it's about time you die
+Player_D: you guys just killed a bystander
+Player_D: rip me
+Player_C: Noooooo
+Player_D: Jordan may was the first to accuse me. they are mafia
+Phase Change to Nighttime: Victim - Diane Mooney
+Players: ['Player_H:town', 'Player_X:town', 'Player_J:town', 'Player_B:town', 'Player_Z:town', 'Player_L:mafia', 'Player_U:mafia', 'Player_C:town', 'Player_R:town', 'Player_D:town']

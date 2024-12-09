@@ -1,0 +1,38 @@
+Phase Change to Daytime: Victim - Daniel King MD
+Player_A: hi team
+Player_I: Hello!
+Player_A votes for Player_I!
+Player_T: Ok obviously William Frank MD
+Player_F: Hi
+Player_T: And hello
+Player_Q: hi
+Player_R: William Frank MD 
+Player_S: Kimberly Harris
+Player_I: Lets off William!
+Player_N: yelloooo
+Player_R: Good idea
+Player_I votes for Player_N!
+Player_A: okay
+Player_F: amy lewis
+Player_R: How
+Player_F votes for Player_T!
+Player_N: Riley
+Player_I: Vote in the dropdown menu
+Player_S votes for Player_N!
+Player_T votes for Player_N!
+Player_N votes for Player_R!
+Player_R votes for Player_N!
+Player_Q votes for Player_N!
+Player_A: oos sorry mary
+Player_I: It's ok
+Player_I: Just a game peeps
+Player_R: Sorry William
+Player_A: :)
+Player_I: Later William!
+Player_N: No prop
+Player_N: bye
+Player_I: Bye
+Player_R: Bye Bye
+Player_A: bye
+Phase Change to Nighttime: Victim - William Frank MD
+Players: ['Player_I:town', 'Player_N:town', 'Player_Q:town', 'Player_R:mafia', 'Player_S:town', 'Player_F:town', 'Player_A:town', 'Player_T:mafia']

@@ -1,0 +1,24 @@
+Phase Change to Daytime: Victim - Thomas Davis
+Brandy Waller: It's the first turn, anyone have any ideas?
+Alyssa Washington: Hi
+Cassandra Miller votes for Alyssa Washington!
+John Davis: hi
+Brandy Waller: Also hi
+Mary Mullins: Hi
+Robert Stewart MD: hi
+Alyssa Washington: I'm not sure how to guess
+Ms. Yvette Davis: HI
+John Davis: lets pick patrick ellis
+Robert Stewart MD: yes
+Brandy Waller: Let's pick John Davis
+John Davis votes for Patrick Ellis!
+Robert Stewart MD votes for Patrick Ellis!
+Brandy Waller: He was the first one to make a suggestion, and he's at the top of the list
+Alyssa Washington votes for Patrick Ellis!
+John Davis: lol
+Mary Mullins: patrick vs john
+Brandy Waller votes for John Davis!
+Brandy Waller: Yeah. We don't really have anything else to go on now, you know?
+Mary Mullins votes for Patrick Ellis!
+Phase Change to Nighttime: Victim - Patrick Ellis
+Players: ['John Davis:town', 'Ms. Yvette Davis:town', 'Robert Stewart MD:town', 'Mary Mullins:mafia', 'Cassandra Miller:town', 'Brandy Waller:town', 'Alyssa Washington:mafia']

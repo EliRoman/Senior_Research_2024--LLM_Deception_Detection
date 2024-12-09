@@ -1,0 +1,32 @@
+Phase Change to Daytime
+Player_P: day
+Player_P: hi
+Player_J: Roy Moore
+Player_C: hello all
+Player_N: hi all!
+Player_J votes for Brittany Oliver!
+Player_M: You pick please
+Player_U: hi
+Player_L: hi all!
+Player_J: hi
+Player_M: Hello
+Player_E votes for Player_C!
+Player_P: nice to meet you all
+Player_V: hola
+Player_M votes for Player_C!
+Player_C votes for Brittany Oliver!
+Player_N: nice to meet everyone
+Player_U votes for Brittany Oliver!
+Player_M: why are you guys picking before we talk about it?
+Player_C: i barra going to beat you up
+Player_V votes for Brittany Oliver!
+Player_C: ryan are you related to Jet
+Player_M: that's Jet Li
+Player_E: Why is everyone choosing Brittany?
+Player_N: roy moore as in the failed politician? lol
+Player_U: she isn't talking sounds like a mob goon to me
+Player_C: why did you choose me
+Player_C: you are right my mistake
+Player_L votes for Player_C!
+Phase Change to Nighttime: Victim - Brittany Oliver
+Players: ['Player_E:town', 'Player_L:town', 'Player_N:mafia', 'Player_M:mafia', 'Player_V:town', 'Player_P:town', 'Player_U:town', 'Player_J:town', 'Player_C:town']

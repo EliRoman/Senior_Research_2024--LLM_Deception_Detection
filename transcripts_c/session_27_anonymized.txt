@@ -1,0 +1,18 @@
+Phase Change to Daytime: Victim - Mr. Joseph Mcknight
+Player_V: Hello
+Player_R: Hi!
+Player_Q: hi
+Player_T: Hello!
+Player_X: Hello!
+Player_S: hi
+Player_L: hi
+Player_V votes for Player_L!
+Player_Z: hello
+Player_Z votes for Frank Steele!
+Player_Q votes for Frank Steele!
+Player_T votes for Frank Steele!
+Player_R votes for Frank Steele!
+Player_X votes for Frank Steele!
+Player_L votes for Frank Steele!
+Phase Change to Nighttime: Victim - Frank Steele
+Players: ['Player_X:mafia', 'Player_T:town', 'Player_V:town', 'Player_L:town', 'Player_Z:town', 'Player_S:mafia', 'Player_R:town', 'Player_Q:town']

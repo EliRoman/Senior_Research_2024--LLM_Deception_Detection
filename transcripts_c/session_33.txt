@@ -1,0 +1,30 @@
+Phase Change to Daytime: Victim - Steven Davis
+Shannon Ryan: hello
+Dana Wilson: Hello
+Shannon Ryan votes for Heather French!
+Daniel Parks: Hi
+Tamara Wilkinson: Hello
+Heather French: hello
+Nancy Garcia: good day
+Christina Walker: yo
+Christina Walker votes for Nancy Garcia!
+Michael Carter: Hey
+Dana Wilson votes for Heather French!
+Mark Johnson MD: Hey 
+Michael Carter votes for Heather French!
+Christina Walker: hi
+Mark Johnson MD votes for Heather French!
+Heather French votes for Shannon Ryan!
+Tamara Wilkinson: Why all the hate for Heather?
+Heather French: lol exactly!
+Nancy Garcia: Heather French sounds appropriate
+Dana Wilson: lol
+Shannon Ryan: feather
+Heather French: you all will see soon (shrugs)
+Nancy Garcia votes for Heather French!
+Daniel Parks votes for Nancy Garcia!
+Nancy Garcia: Feather Hench
+Tamara Wilkinson votes for Nancy Garcia!
+Shannon Ryan: lol
+Phase Change to Nighttime: Victim - Heather French
+Players: ['Mark Johnson MD:town', 'Nancy Garcia:town', 'Dana Wilson:town', 'Shannon Ryan:town', 'Christina Walker:town', 'Heather French:town', 'Daniel Parks:town', 'Michael Carter:mafia', 'Tamara Wilkinson:town']

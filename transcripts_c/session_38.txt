@@ -1,0 +1,41 @@
+Phase Change to Daytime: Victim - Alexander Dillon
+Steven Brown: Hello all
+Cathy Lopez: james smith
+James Smith: Hello
+Steven Brown: alrighty
+Clayton Cook: hello
+Cathy Lopez: hi
+Ryan Ray: I don't trust James
+Andrew Price: Hey
+Regina Martin: hello 
+Garrett Baker: Yo
+James Smith: Ok
+Andrew Price: not James Smith
+Steven Brown: Why?
+Ryan Ray: Then who besides James?
+James Smith: No really, not
+Regina Martin votes for Ryan Ray!
+Andrew Price: Cathy
+Cathy Lopez: ryan ray needs to be gone
+Garrett Baker votes for Ryan Ray!
+Andrew Price votes for Cathy Lopez!
+Garrett Baker: Get ryan outta here
+Steven Brown: 80secs left
+James Smith: Not sure who to choose
+Ryan Ray: I'm voting for Cathy 
+Garrett Baker: Ryan talkin too much
+Ryan Ray: I have no rationale just speeding things up 
+Andrew Price: Cathy is Mafia I think
+Clayton Cook: agree how are we supposed to play this game over a chat box haha
+Cathy Lopez: Lets eliminate Ryan
+Regina Martin: whats the prize if we win?
+Ryan Ray: Don't you turn this on me
+Steven Brown votes for James Smith!
+Ryan Ray votes for Cathy Lopez!
+James Smith: Don't think there is a prize
+Clayton Cook: if you are mafia just respond to this 
+Cathy Lopez votes for Ryan Ray!
+James Smith votes for Cathy Lopez!
+Regina Martin: vote me out then lol
+Phase Change to Nighttime: Victim - Ryan Ray
+Players: ['Cathy Lopez:town', 'James Smith:town', 'Garrett Baker:mafia', 'Ryan Ray:town', 'Clayton Cook:town', 'Regina Martin:town', 'Andrew Price:town', 'Steven Brown:town']

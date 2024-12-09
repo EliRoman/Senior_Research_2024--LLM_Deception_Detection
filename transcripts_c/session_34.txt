@@ -1,0 +1,32 @@
+Phase Change to Daytime: Victim - Clinton Sims
+James Lamb: all good
+James Martin votes for Eric Fisher!
+James Martin: HI
+Lori Solomon: hello everyone
+George Le: Hi all
+Daniel Jones: Hello
+James Martin: HELLO
+Rachael Cunningham: Hello.
+Maxwell Reyes: Hi.
+Eric Fisher: hello
+Rachael Cunningham: No idea who to eliminate.
+Dalton Frazier: Hi
+George Le votes for Eric Fisher!
+Lori Solomon: same 
+James Lamb votes for James Martin!
+Lori Solomon: trying to think what we can go off
+Daniel Jones votes for Eric Fisher!
+Rachael Cunningham: Anyone have suggestions?
+James Martin: HII
+Lori Solomon: anyone have anything to offer. i dont even know what would be suspicious
+James Martin: NO
+George Le: No
+Lori Solomon: who is mafia? 
+Lori Solomon: too easy well i dont want to just blindly kill so idk
+Rachael Cunningham: It shows what people are voting for.
+Rachael Cunningham: Maybe the people who are all voting the same the first day are mafia?
+Eric Fisher votes for James Martin!
+Maxwell Reyes votes for James Martin!
+Dalton Frazier votes for James Lamb!
+Phase Change to Nighttime: Victim - James Martin
+Players: ['Eric Fisher:mafia', 'Dalton Frazier:town', 'James Martin:town', 'Maxwell Reyes:town', 'Lori Solomon:town', 'Daniel Jones:town', 'James Lamb:mafia', 'Rachael Cunningham:town', 'George Le:town']

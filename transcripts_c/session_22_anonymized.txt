@@ -1,0 +1,40 @@
+Phase Change to Daytime: Victim - Chris Scott
+Player_E: hi
+Player_B: hey
+Player_I: hey
+Player_K: hello
+Player_A: hey
+Player_T: hi
+Player_L: Hello!
+Player_U: Hello
+Player_N: who want to go first?
+Player_I: how about you?
+Player_N: ready to kick someone...
+Player_B: natalie... that sounds like someone in the mafia 
+Player_N: try..hahahah
+Player_U: I agree. Let's eliminate Natalie.
+Player_T: I
+Player_L: Stephen Baldwin... that guy has been in quite a few movies, I bet he's got mob connections. I vote Stephen Baldwin is the mafioso! 
+Player_B: good she's gone
+Player_T: I agree
+Player_A: lol
+Player_U votes for Player_T!
+Player_I: baldwin sounds like it
+Player_A: are you sure?
+Player_L votes for Player_B!
+Player_B: i'll make my own mob out of these bystanders
+Player_T: Natalie can't be trusted
+Player_B votes for Player_T!
+Player_E votes for Player_I!
+Player_K: everyone agreeing natalie is probably mafia
+Player_I votes for Player_B!
+Player_N: yes kick her out
+Player_U: Even Natalie agrees that Natalie cannot be trusted.
+Player_L: Agreed, Baldwin was very quick to throw her under the bus. 
+Player_B: i'
+Player_B: m just trying to get this party started
+Player_K votes for Player_B!
+Player_A votes for Player_B!
+Player_L: Sounds like something a mob boss would say. 
+Phase Change to Nighttime: Victim - Stephen Baldwin
+Players: ['Player_I:mafia', 'Player_B:town', 'Player_U:town', 'Player_T:mafia', 'Player_K:town', 'Player_L:town', 'Player_E:town', 'Player_A:town', 'Player_N:town']

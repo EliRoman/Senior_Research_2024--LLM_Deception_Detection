@@ -1,0 +1,35 @@
+Phase Change to Daytime: Victim - Alexander Lopez
+Katherine Hull: hi
+Stephen Frank votes for James Perez!
+James Perez: hi
+Robert Anderson: hello
+Stephen Frank: hello
+Kimberly Warren: hi
+Ricardo Owens: ello
+James Perez votes for Ricardo Owens!
+Stephen Frank: i know who is mafia
+Katherine Harper votes for Ricardo Owens!
+Katherine Hull: I am the mafia
+James Perez: Im mafia
+Stephen Frank: i am too
+Robert Anderson votes for James Perez!
+James Perez: lol
+Katherine Hull votes for James Perez!
+Jason Smith: Im too nice to be mafia
+Stephen Frank: lol or im a bystander with a gun
+Ricardo Owens votes for Jason Smith!
+Stephen Frank: hmm..
+James Perez: Im both
+Kimberly Warren votes for James Perez!
+Stephen Frank: jason smith mafia confirmed
+James Perez: Ricardo is too quiet
+Robert Anderson: One name is as good as another at this point, I guess
+Katherine Hull: Ricardo def mafia
+Ricardo Owens: i mean i'm just processing everyone admitting to being mafia even though they can't all be lol
+James Perez: sure
+Jason Smith votes for Ricardo Owens!
+Robert Anderson: That would be a short game, lol
+James Perez: lol everyone had the same idea 
+Katherine Hull: that's what someone in the mafia would say
+Phase Change to Nighttime: Victim - James Perez
+Players: ['Katherine Hull:town', 'Stephen Frank:town', 'Robert Anderson:mafia', 'James Perez:town', 'Katherine Harper:town', 'Jason Smith:mafia', 'Kimberly Warren:town', 'Ricardo Owens:town']

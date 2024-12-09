@@ -1,0 +1,38 @@
+Phase Change to Daytime: Victim - Daniel King MD
+Shannon Diaz: hi team
+Mary Mata: Hello!
+Shannon Diaz votes for Mary Mata!
+Amy Lewis: Ok obviously William Frank MD
+Jamie Sanchez: Hi
+Amy Lewis: And hello
+Damon Ryan: hi
+Riley Webster: William Frank MD 
+Kimberly Harris: Kimberly Harris
+Mary Mata: Lets off William!
+William Frank MD: yelloooo
+Riley Webster: Good idea
+Mary Mata votes for William Frank MD!
+Shannon Diaz: okay
+Jamie Sanchez: amy lewis
+Riley Webster: How
+Jamie Sanchez votes for Amy Lewis!
+William Frank MD: Riley
+Mary Mata: Vote in the dropdown menu
+Kimberly Harris votes for William Frank MD!
+Amy Lewis votes for William Frank MD!
+William Frank MD votes for Riley Webster!
+Riley Webster votes for William Frank MD!
+Damon Ryan votes for William Frank MD!
+Shannon Diaz: oos sorry mary
+Mary Mata: It's ok
+Mary Mata: Just a game peeps
+Riley Webster: Sorry William
+Shannon Diaz: :)
+Mary Mata: Later William!
+William Frank MD: No prop
+William Frank MD: bye
+Mary Mata: Bye
+Riley Webster: Bye Bye
+Shannon Diaz: bye
+Phase Change to Nighttime: Victim - William Frank MD
+Players: ['Mary Mata:town', 'William Frank MD:town', 'Damon Ryan:town', 'Riley Webster:mafia', 'Kimberly Harris:town', 'Jamie Sanchez:town', 'Shannon Diaz:town', 'Amy Lewis:mafia']

@@ -1,0 +1,24 @@
+Phase Change to Daytime: Victim - Thomas Davis
+Player_K: It's the first turn, anyone have any ideas?
+Player_X: Hi
+Player_O votes for Player_X!
+Player_H: hi
+Player_K: Also hi
+Player_F: Hi
+Player_W: hi
+Player_X: I'm not sure how to guess
+Player_C: HI
+Player_H: lets pick patrick ellis
+Player_W: yes
+Player_K: Let's pick John Davis
+Player_H votes for Patrick Ellis!
+Player_W votes for Patrick Ellis!
+Player_K: He was the first one to make a suggestion, and he's at the top of the list
+Player_X votes for Patrick Ellis!
+Player_H: lol
+Player_F: patrick vs john
+Player_K votes for Player_H!
+Player_K: Yeah. We don't really have anything else to go on now, you know?
+Player_F votes for Patrick Ellis!
+Phase Change to Nighttime: Victim - Patrick Ellis
+Players: ['Player_H:town', 'Player_C:town', 'Player_W:town', 'Player_F:mafia', 'Player_O:town', 'Player_K:town', 'Player_X:mafia']

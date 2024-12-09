@@ -1,0 +1,18 @@
+Phase Change to Daytime: Victim - Mr. Joseph Mcknight
+Elizabeth Andrews: Hello
+Lindsay Johnson: Hi!
+Rachel Costa: hi
+Jorge Mcintosh: Hello!
+Erin Blevins: Hello!
+Brittany Evans: hi
+Melissa Hunt: hi
+Elizabeth Andrews votes for Melissa Hunt!
+Jamie Burch: hello
+Jamie Burch votes for Frank Steele!
+Rachel Costa votes for Frank Steele!
+Jorge Mcintosh votes for Frank Steele!
+Lindsay Johnson votes for Frank Steele!
+Erin Blevins votes for Frank Steele!
+Melissa Hunt votes for Frank Steele!
+Phase Change to Nighttime: Victim - Frank Steele
+Players: ['Erin Blevins:mafia', 'Jorge Mcintosh:town', 'Elizabeth Andrews:town', 'Melissa Hunt:town', 'Jamie Burch:town', 'Brittany Evans:mafia', 'Lindsay Johnson:town', 'Rachel Costa:town']

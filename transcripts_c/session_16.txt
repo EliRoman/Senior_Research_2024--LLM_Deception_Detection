@@ -1,0 +1,33 @@
+Phase Change to Daytime
+Sara Reed votes for Ashley Bautista!
+Eric Schneider: Hi
+Kenneth Chavez: hi
+Beth Ramsey: Hello
+Alexander Griffin: hello
+Ashley Bautista: hey
+Mitchell Schultz: Hello
+Cynthia Bird: hi
+Eric Schneider: Who should we eliminate?
+Alexander Griffin: who didn't respond?
+Sara Reed: Who was dropped during the night?
+Cynthia Bird: all respoded
+Eric Schneider: I don't see Kendra Craig responding
+Alexander Griffin: looks like Kendra is it then
+Ruben Sanchez votes for Alexander Griffin!
+Sara Reed votes for Cynthia Bird!
+Eric Schneider votes for Kendra Craig!
+Kenneth Chavez: sounds good
+Beth Ramsey votes for Kendra Craig!
+Mitchell Schultz votes for Kendra Craig!
+Alexander Griffin votes for Kendra Craig!
+Cynthia Bird: kendra then
+Eric Schneider: Sorry Kendra...
+Kenneth Chavez votes for Kendra Craig!
+Ashley Bautista: sounds good
+Cynthia Bird votes for Kendra Craig!
+Sara Reed: Why Kendra?
+Alexander Griffin: no response
+Kendra Craig votes for Sara Reed!
+Ashley Bautista: she hasn't responded
+Phase Change to Nighttime: Victim - Kendra Craig
+Players: ['Beth Ramsey:town', 'Ashley Bautista:town', 'Ruben Sanchez:mafia', 'Sara Reed:mafia', 'Kendra Craig:town', 'Cynthia Bird:town', 'Mitchell Schultz:town', 'Eric Schneider:town', 'Kenneth Chavez:town', 'Alexander Griffin:town']

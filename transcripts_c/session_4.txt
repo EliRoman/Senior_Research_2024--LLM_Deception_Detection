@@ -1,0 +1,33 @@
+Phase Change to Daytime
+Amanda Pearson votes for Robin Rodriguez!
+Matthew Taylor: hello
+Danielle Castro: hey
+Matthew Taylor votes for Gregory Ware!
+Amanda Pearson: Hi there
+Chelsea Cook: Hello
+Gregory Ware votes for Matthew Taylor!
+Wendy White: Hi!
+Robin Rodriguez: So, how's all you'se doin'.
+Gregory Ware: hello
+Nicolas Cole: hi yall
+Danielle Castro: whodunnit
+Matthew Taylor: going to eliminate you..ah aha
+Wendy White: Is that English?
+Chelsea Cook: Amanda Pearson was pretty quick to cast her vote, seems suspicious to me
+Danielle Castro: colonel mustard in the library with the candlestick
+Amanda Pearson: That sounds suspicious...
+Nicolas Cole votes for Matthew Taylor!
+Chelsea Cook votes for Amanda Pearson!
+Danielle Castro: wrong game
+Matthew Taylor: oh really
+Matthew Taylor: just chat
+Wendy White votes for Matthew Taylor!
+Nicolas Cole: who's the mouthiest???
+Robin Rodriguez: You'se better not be think'in of pushin' a button on Robin Lefty Rodriguez!
+Matthew Taylor: who do you all want eliminate?
+Amanda Pearson: It seems like Robin Rodriguez is trying to intimidate us!
+Danielle Castro: eyy fuggeddaboutit
+Danielle Castro votes for Chelsea Cook!
+Robin Rodriguez: Hey I'm just playin' wit' you'se.
+Phase Change to Nighttime
+Players: ['Wendy White:mafia', 'Robin Rodriguez:town', 'Gregory Ware:town', 'Danielle Castro:town', 'Amanda Pearson:town', 'Chelsea Cook:town', 'Matthew Taylor:town', 'Nicolas Cole:mafia']

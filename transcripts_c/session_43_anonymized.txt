@@ -1,0 +1,32 @@
+Phase Change to Daytime: Victim - Tina Black
+Player_M: hello
+Player_O: Greetings
+Player_P: hi
+Player_J: hey everyone
+Player_V: sup
+Player_E: hi all
+Player_X: Hi
+Player_M: who thinks Johnny is Mafia?
+Player_E: me
+Player_P: Sounds like a mafia name to me 
+Player_O: I can't say no
+Player_M: haha, yea
+Player_E: lets kill him
+Player_D: hi
+Player_P votes for Johnny Stevens!
+Player_O: poor Johnny
+Player_E: carol is a mafia too, i saw it when we were chatting last night
+Player_X votes for Player_M!
+Player_O votes for Johnny Stevens!
+Player_D: Or you are and trying to throw them off track
+Player_E: yes
+Player_M: we can get Carol next round
+Player_P: ok
+Player_E: i mean no
+Player_M votes for Johnny Stevens!
+Player_J votes for Player_E!
+Player_D votes for Player_E!
+Player_V votes for Player_E!
+Player_O: look for the long coat
+Phase Change to Nighttime: Victim - Laura Pena
+Players: ['Player_O:town', 'Player_V:town', 'Player_E:mafia', 'Player_D:town', 'Player_X:town', 'Player_P:mafia', 'Player_J:town', 'Player_M:town']

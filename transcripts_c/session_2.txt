@@ -1,0 +1,28 @@
+Phase Change to Daytime: Victim - Frances Kelly
+Frances Kelly votes for Shawn Bailey!
+Shawn Bailey: Sounds good to me. 
+Diane Mooney: I am a bystander. dont kill me
+Alicia Randall: Bystander here
+Chad Collins: i am a bystander too.
+Gabriel Durham: Bystander too.
+Donna Cook: Donna Cook here, not a mafia member :)
+Tricia Miller: Me too!
+Jordan May: Bystander here also
+Alicia Randall: Wow isn't that convenient
+Stephen Clark: Right.
+Jordan May votes for Diane Mooney!
+Chad Collins votes for Alicia Randall!
+Stephen Clark votes for Diane Mooney!
+Shawn Bailey votes for Diane Mooney!
+Tricia Miller votes for Diane Mooney!
+Alicia Randall votes for Diane Mooney!
+Gabriel Durham votes for Donna Cook!
+Donna Cook votes for Diane Mooney!
+Diane Mooney votes for Jordan May!
+Donna Cook: Diane, it's about time you die
+Diane Mooney: you guys just killed a bystander
+Diane Mooney: rip me
+Alicia Randall: Noooooo
+Diane Mooney: Jordan may was the first to accuse me. they are mafia
+Phase Change to Nighttime: Victim - Diane Mooney
+Players: ['Jordan May:town', 'Stephen Clark:town', 'Frances Kelly:town', 'Donna Cook:town', 'Gabriel Durham:town', 'Shawn Bailey:mafia', 'Tricia Miller:mafia', 'Alicia Randall:town', 'Chad Collins:town', 'Diane Mooney:town']

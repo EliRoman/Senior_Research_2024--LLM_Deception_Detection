@@ -1,0 +1,34 @@
+Phase Change to Daytime: Victim - Dwayne Lam
+Player_W: hello all!
+Player_E: hello.
+Player_K: Hello
+Player_Q: Hey!
+Player_W: There seems to be some mafia members among us!
+Player_F: Greetings!
+Player_C: Hi there! 
+Player_X: What's up?
+Player_X: How does this work 
+Player_W: Brent can i trust you?
+Player_Q: Check the instructions
+Player_K votes for Player_W!
+Player_W: Ryan playing dumb to stay alive?
+Player_X: I've been playing it my whole life.  
+Player_E: I think so Joshua.
+Player_X: Kind of natural at this point
+Player_C: lol
+Player_D: Howdy y'all
+Player_F votes for Player_Q!
+Player_Q: We're all dumb here
+Player_X votes for Player_W!
+Player_Q: Some are more dumb than others
+Player_W votes for Player_X!
+Player_X: Reminds me of IT.  We all float down here
+Player_F: You seem to be really connected to the family, like a Targaryen.
+Player_D votes for Player_Q!
+Player_E votes for Player_Q!
+Player_C votes for Player_W!
+Player_Q: I'd almost say vote me out so I can complete this HIT faster lol
+Player_F: Ryan, have you seen any red balloons? :)
+Player_Q votes for Player_W!
+Phase Change to Nighttime: Victim - Joshua Herman
+Players: ['Player_F:town', 'Player_C:mafia', 'Player_X:mafia', 'Player_K:town', 'Player_W:town', 'Player_E:town', 'Player_Q:town', 'Player_D:town']

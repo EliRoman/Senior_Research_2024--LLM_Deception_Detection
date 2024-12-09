@@ -1,0 +1,18 @@
+Phase Change to Daytime: Victim - Carlos Smith
+Player_X votes for Joshua Holland!
+Player_X: get ya
+Player_D: Hi
+Player_Q: Hi
+Player_U: Hey
+Player_Z: hi
+Player_E: hello
+Player_U votes for Scott Nelson!
+Player_K: hi
+Player_Z votes for Player_U!
+Player_K votes for Scott Nelson!
+Player_Q votes for Player_X!
+Player_E votes for Player_Z!
+Player_D votes for Player_X!
+Player_Z: wow what a game
+Phase Change to Nighttime: Victim - Robert Evans
+Players: ['Player_Z:town', 'Player_X:town', 'Player_Q:town', 'Player_D:town', 'Player_U:town', 'Player_E:mafia', 'Player_K:mafia']

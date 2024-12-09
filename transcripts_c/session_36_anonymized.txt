@@ -1,0 +1,35 @@
+Phase Change to Daytime: Victim - Scott Mason
+Player_X: hey
+Player_X: hi guys
+Player_F: hi
+Player_P: hi
+Player_Z: Hi, bystanders!  Seems to me if we're smart, and we have more than the mafia, we can win this if we're smart
+Player_A: Hey!
+Player_R: Hi
+Player_N: Hello 
+Player_O: Hello
+Player_P: amnda is mafia
+Player_X: hey how r u
+Player_P: vote her out
+Player_Z: Im not
+Player_Z: really
+Player_R: Agreed. Amanda is mafia.
+Player_Z: Im just talkative LOL
+Player_N votes for Player_Z!
+Player_P votes for Player_Z!
+Player_F votes for Player_Z!
+Player_O: I assumed it was a male
+Player_X: matthew is mafia
+Player_P: whos matthew?
+Player_Z: I agree. Matthew is
+Player_R: Amanda, who should we vote out then?
+Player_Z: Trying too hard
+Player_Z: I'll vote Matthew
+Player_A votes for Player_P!
+Player_Z votes for Player_P!
+Player_P: im gonna make you an offer you cant refuse
+Player_O votes for Player_N!
+Player_R votes for Player_Z!
+Player_X: hey just for lol guys
+Phase Change to Nighttime: Victim - Amanda Carson
+Players: ['Player_N:mafia', 'Player_P:mafia', 'Player_O:town', 'Player_X:town', 'Player_Z:town', 'Player_A:town', 'Player_F:town', 'Player_R:town']

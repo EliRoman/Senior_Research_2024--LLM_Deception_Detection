@@ -1,0 +1,26 @@
+Phase Change to Daytime
+Player_Y: Hi!
+Player_B: Hello
+Player_Z: Hello
+Player_C: hi
+Player_X: What's up everyone
+Player_G: Hello!
+Player_L: Hello
+Player_Y: How is everyone?
+Player_A: Hey
+Player_B: Nothing much here.. got a good nights rest
+Player_H: hi
+Player_B votes for Player_C!
+Player_L votes for Player_B!
+Player_Y votes for Player_C!
+Player_H: tyrone
+Player_Z votes for Player_X!
+Player_G votes for Player_B!
+Player_H votes for Player_Z!
+Player_Y: Ditto David. Feels good!
+Player_C votes for Player_B!
+Player_A votes for Player_B!
+Player_X votes for Player_Z!
+Player_B: Nope not me
+Phase Change to Nighttime: Victim - Daniel Mayer
+Players: ['Player_Z:town', 'Player_X:mafia', 'Player_G:town', 'Player_L:town', 'Player_H:town', 'Player_Y:town', 'Player_C:town', 'Player_A:town', 'Player_B:mafia']

@@ -1,0 +1,31 @@
+Phase Change to Daytime: Victim - Mary Blake
+Jeffrey Miles votes for William Rubio!
+Jeremiah Johnson: Hi
+Kimberly Harrison: Hello
+Christopher Drake: Hi everyone! 
+Mary Reed: hello
+Jesse Martin: hello
+Kimberly Harrison: Hi! 
+Mary Reed votes for William Rubio!
+Rebecca Patterson: hey!
+Jesse Martin: How is everyone?
+William Rubio votes for Ricky Mcneil!
+Ricky Mcneil: Shall we vote out Mary Reed
+Christopher Drake: Fine thanks. Who should we eliminate?
+Kimberly Harrison: Great! So, who do we vote for?
+Ricky Mcneil votes for William Rubio!
+Jeremiah Johnson: depends on who you are
+Christopher Drake votes for William Rubio!
+Kimberly Harrison: LOL touche
+Jesse Martin: Mary
+Jesse Martin votes for Mary Reed!
+Rebecca Patterson votes for William Rubio!
+Mary Reed: William Rubio
+Kimberly Harrison: Looks like William isn't doing so hot
+Kimberly Harrison votes for William Rubio!
+Christopher Drake: Yeah, I think William seems to be the popular choice.
+Kimberly Harrison: I don't see him on here conversing 
+Kimberly Harrison: hmmm
+Jeremiah Johnson votes for Rebecca Patterson!
+Phase Change to Nighttime: Victim - William Rubio
+Players: ['Jeffrey Miles:town', 'William Rubio:town', 'Rebecca Patterson:town', 'Christopher Drake:town', 'Mary Reed:town', 'Ricky Mcneil:mafia', 'Kimberly Harrison:town', 'Jesse Martin:mafia', 'Jeremiah Johnson:town']

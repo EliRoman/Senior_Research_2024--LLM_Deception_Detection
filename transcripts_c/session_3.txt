@@ -1,0 +1,32 @@
+Phase Change to Daytime
+Ryan Lee: day
+Ryan Lee: hi
+Scott Glenn: Roy Moore
+Roy Moore: hello all
+Jeremy Davis: hi all!
+Scott Glenn votes for Brittany Oliver!
+Harold Peterson: You pick please
+William Reed: hi
+Mark Espinoza: hi all!
+Scott Glenn: hi
+Harold Peterson: Hello
+Kimberly Ibarra votes for Roy Moore!
+Ryan Lee: nice to meet you all
+Diana Ayala: hola
+Harold Peterson votes for Roy Moore!
+Roy Moore votes for Brittany Oliver!
+Jeremy Davis: nice to meet everyone
+William Reed votes for Brittany Oliver!
+Harold Peterson: why are you guys picking before we talk about it?
+Roy Moore: i barra going to beat you up
+Diana Ayala votes for Brittany Oliver!
+Roy Moore: ryan are you related to Jet
+Harold Peterson: that's Jet Li
+Kimberly Ibarra: Why is everyone choosing Brittany?
+Jeremy Davis: roy moore as in the failed politician? lol
+William Reed: she isn't talking sounds like a mob goon to me
+Roy Moore: why did you choose me
+Roy Moore: you are right my mistake
+Mark Espinoza votes for Roy Moore!
+Phase Change to Nighttime: Victim - Brittany Oliver
+Players: ['Kimberly Ibarra:town', 'Mark Espinoza:town', 'Jeremy Davis:mafia', 'Harold Peterson:mafia', 'Diana Ayala:town', 'Ryan Lee:town', 'William Reed:town', 'Scott Glenn:town', 'Roy Moore:town']

@@ -1,0 +1,27 @@
+Phase Change to Daytime
+Phase Change to Daytime
+Mary Trujillo: hello
+Christina Rollins: Hi
+Troy Thomas: I don't really understand how we're supposed to know who to vote for, I just chose Bryce Fields at random..
+Ryan Hodges: hey
+Christopher Smith: Hello
+Diana Pennington: Hi
+Natalie Morris: hi
+Ryan Hodges: nice, the feigning ignorance angle
+Christina Rollins votes for Troy Thomas!
+Troy Thomas: I'm legitimately ignorant but ok
+Mary Trujillo votes for Troy Thomas!
+Natalie Morris votes for Troy Thomas!
+Mary Trujillo: If you can vote that means you must be in the mafia.
+Christina Rollins: that is not the case.
+Christopher Smith votes for Kimberly Lyons!
+Troy Thomas: ??
+Troy Thomas votes for Ryan Hodges!
+Diana Pennington votes for Troy Thomas!
+Christina Rollins: that's only in the nighttime, Mary.
+Troy Thomas: Looks like this should be a win for the mafia if I'm eliminated
+Mary Trujillo: Right, and he said he chose Byrce
+Mary Trujillo: You couldn't have chosen Bryce in the last phase as a bystander
+Ryan Hodges votes for Troy Thomas!
+Phase Change to Nighttime
+Players: ['Christopher Smith:town', 'Diana Pennington:town', 'Christina Rollins:town', 'Natalie Morris:mafia', 'Troy Thomas:town', 'Mary Trujillo:town', 'Ryan Hodges:mafia']

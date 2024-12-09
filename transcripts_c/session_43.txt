@@ -1,0 +1,32 @@
+Phase Change to Daytime: Victim - Tina Black
+Valerie White: hello
+Diane Jennings: Greetings
+Zachary Hurley: hi
+Jeffrey Morris: hey everyone
+Andrea Lee: sup
+Laura Pena: hi all
+Danielle Silva: Hi
+Valerie White: who thinks Johnny is Mafia?
+Laura Pena: me
+Zachary Hurley: Sounds like a mafia name to me 
+Diane Jennings: I can't say no
+Valerie White: haha, yea
+Laura Pena: lets kill him
+Carol Stone: hi
+Zachary Hurley votes for Johnny Stevens!
+Diane Jennings: poor Johnny
+Laura Pena: carol is a mafia too, i saw it when we were chatting last night
+Danielle Silva votes for Valerie White!
+Diane Jennings votes for Johnny Stevens!
+Carol Stone: Or you are and trying to throw them off track
+Laura Pena: yes
+Valerie White: we can get Carol next round
+Zachary Hurley: ok
+Laura Pena: i mean no
+Valerie White votes for Johnny Stevens!
+Jeffrey Morris votes for Laura Pena!
+Carol Stone votes for Laura Pena!
+Andrea Lee votes for Laura Pena!
+Diane Jennings: look for the long coat
+Phase Change to Nighttime: Victim - Laura Pena
+Players: ['Diane Jennings:town', 'Andrea Lee:town', 'Laura Pena:mafia', 'Carol Stone:town', 'Danielle Silva:town', 'Zachary Hurley:mafia', 'Jeffrey Morris:town', 'Valerie White:town']

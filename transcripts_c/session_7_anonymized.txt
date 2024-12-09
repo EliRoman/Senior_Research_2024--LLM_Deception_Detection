@@ -1,0 +1,24 @@
+Phase Change to Daytime
+Phase Change to Daytime
+Player_T: Ok I too will vote that
+Player_A: Hello
+Player_D: hello
+Player_A: who do we eliminate ?
+Player_U: Hi
+Player_K: Hi!
+Player_R: John was trying to talk at night so he is mafia
+Player_H: Hi 
+Player_K: lol
+Player_K: I vote for JOhn
+Player_D votes for Player_T!
+Player_K votes for Player_T!
+Player_P votes for Player_T!
+Player_R votes for Player_T!
+Player_H votes for Player_T!
+Player_A: voting for john then
+Player_O votes for Player_T!
+Player_A votes for Player_T!
+Player_U votes for Player_T!
+Player_T votes for Player_U!
+Phase Change to Nighttime
+Players: ['Player_U:mafia', 'Player_R:town', 'Player_O:town', 'Player_P:town', 'Player_A:town', 'Player_K:town', 'Player_D:town', 'Player_H:town', 'Player_T:mafia']

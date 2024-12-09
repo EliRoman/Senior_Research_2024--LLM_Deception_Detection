@@ -1,0 +1,32 @@
+Phase Change to Daytime: Victim - Henry Evans
+Player_Z votes for Player_U!
+Player_H: hi
+Player_V: Hi everyone!
+Player_U: LOL :(
+Player_Z: Hi, everybody!
+Player_O: Hello
+Player_Q: Hello
+Player_U: that would be a mistake...
+Player_P: Don't kill me!
+Player_Z: Sorry, I just picked a random name :(
+Player_X: Hello
+Player_J: its the asian one 
+Player_Q: I'm a bystander
+Player_Q votes for Player_U!
+Player_O: So, are we all voting randomly?
+Player_H: Seems odd that Matthew would make the first choice, probably mafia
+Player_H votes for Player_Z!
+Player_U: exactly
+Player_Z: Nope ;)
+Player_J votes for Player_V!
+Player_O votes for Player_Z!
+Player_V votes for Player_Z!
+Player_U votes for Player_Z!
+Player_P votes for Player_U!
+Player_H: RIP Matt 
+Player_J: blake talked second so has to be him
+Player_H: <3
+Player_J: first is always safe its second
+Player_X votes for Player_Z!
+Phase Change to Nighttime: Victim - Matthew Bridges
+Players: ['Player_Z:town', 'Player_V:town', 'Player_P:town', 'Player_X:town', 'Player_J:town', 'Player_Q:town', 'Player_U:mafia', 'Player_H:town', 'Player_O:mafia']

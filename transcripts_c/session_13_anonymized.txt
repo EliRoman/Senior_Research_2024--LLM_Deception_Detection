@@ -1,0 +1,24 @@
+Phase Change to Daytime: Victim - Timothy Underwood
+Player_Q: sup yall
+Player_A: yo
+Player_Z: sup
+Player_Y votes for Player_W!
+Player_M: killing sara marshall lol
+Player_Z votes for Player_Q!
+Player_E: 1
+Player_Q: why kimberly?
+Player_A votes for Player_M!
+Player_E: 12
+Player_Y: why not
+Player_A: paul ya done
+Player_N: I'll go with Sara Marshall
+Player_E: 12
+Player_M: like the movie get it?
+Player_Q votes for Player_A!
+Player_W votes for Player_A!
+Player_N votes for Player_A!
+Player_M votes for Player_A!
+Player_X votes for Player_A!
+Player_A: idiots
+Phase Change to Nighttime: Victim - Sara Marshall
+Players: ['Player_Y:town', 'Player_W:town', 'Player_E:town', 'Player_M:mafia', 'Player_X:town', 'Player_Q:mafia', 'Player_N:town', 'Player_Z:town', 'Player_A:town']

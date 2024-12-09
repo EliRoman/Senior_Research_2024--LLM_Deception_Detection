@@ -1,0 +1,18 @@
+Phase Change to Daytime: Victim - Carlos Smith
+Robert Evans votes for Joshua Holland!
+Robert Evans: get ya
+Christian Atkinson: Hi
+Sandra Robinson: Hi
+Terri Brewer: Hey
+Timothy Cherry: hi
+Sara Bright: hello
+Terri Brewer votes for Scott Nelson!
+Kevin Hodge: hi
+Timothy Cherry votes for Terri Brewer!
+Kevin Hodge votes for Scott Nelson!
+Sandra Robinson votes for Robert Evans!
+Sara Bright votes for Timothy Cherry!
+Christian Atkinson votes for Robert Evans!
+Timothy Cherry: wow what a game
+Phase Change to Nighttime: Victim - Robert Evans
+Players: ['Timothy Cherry:town', 'Robert Evans:town', 'Sandra Robinson:town', 'Christian Atkinson:town', 'Terri Brewer:town', 'Sara Bright:mafia', 'Kevin Hodge:mafia']

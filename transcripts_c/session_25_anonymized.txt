@@ -1,0 +1,39 @@
+Phase Change to Daytime: Victim - Micheal Francis
+Player_V votes for Player_X!
+Player_J: hi
+Player_E: Did anyone die?
+Player_K: I AM NOW SURE ON THIS ONW
+Player_K votes for Player_X!
+Player_J: what?
+Player_F: Who should we get rid of?
+Player_N: I'm here
+Player_K: JOHN LUNA
+Player_U: Harold could you restate your question.
+Player_X: Not me, How about Rebecca
+Player_N: Rebecca  is here
+Player_U votes for Player_X!
+Player_E: I don't know how anyone's sure of anything
+Player_J: Jessica?
+Player_N: It appears Wendy Leach might be gone
+Player_X: Right?! How can we pick?
+Player_F: Why does everyone want to eliminate John Luna?
+Player_J: lol
+Player_X: We have no information about people.
+Player_N: John Luna appeared after the night
+Player_E: Only Harold does
+Player_J: but jessica is not speaking
+Player_V: i don't remember even selecting anybody
+Player_U: It seems like the current consensus. 
+Player_X: Because I showed up a few seconds late?
+Player_V: so....i'm not sure what's going on
+Player_N: I vote for John Luna to be eliminated
+Player_E: Well sounds like Benjamin is mafia
+Player_V: i just loaded in and had a vote already somehow?
+Player_X: Rebecca you are bullying me
+Player_F: The three that picked John are probably mafia!
+Player_F: They're in cahoots!
+Player_N votes for Player_X!
+Player_X: I'm not smart enough to be mafia.
+Player_V: lol
+Phase Change to Nighttime: Victim - John Luna
+Players: ['Player_K:mafia', 'Player_V:mafia', 'Player_F:town', 'Player_E:town', 'Player_X:town', 'Player_N:town', 'Player_U:town', 'Player_J:town']

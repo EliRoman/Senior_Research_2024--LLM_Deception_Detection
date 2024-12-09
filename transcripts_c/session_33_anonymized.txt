@@ -1,0 +1,30 @@
+Phase Change to Daytime: Victim - Steven Davis
+Player_Q: hello
+Player_N: Hello
+Player_Q votes for Player_B!
+Player_Z: Hi
+Player_H: Hello
+Player_B: hello
+Player_M: good day
+Player_X: yo
+Player_X votes for Player_M!
+Player_I: Hey
+Player_N votes for Player_B!
+Player_O: Hey 
+Player_I votes for Player_B!
+Player_X: hi
+Player_O votes for Player_B!
+Player_B votes for Player_Q!
+Player_H: Why all the hate for Heather?
+Player_B: lol exactly!
+Player_M: Heather French sounds appropriate
+Player_N: lol
+Player_Q: feather
+Player_B: you all will see soon (shrugs)
+Player_M votes for Player_B!
+Player_Z votes for Player_M!
+Player_M: Feather Hench
+Player_H votes for Player_M!
+Player_Q: lol
+Phase Change to Nighttime: Victim - Heather French
+Players: ['Player_O:town', 'Player_M:town', 'Player_N:town', 'Player_Q:town', 'Player_X:town', 'Player_B:town', 'Player_Z:town', 'Player_I:mafia', 'Player_H:town']

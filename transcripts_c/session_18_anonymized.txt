@@ -1,0 +1,16 @@
+Phase Change to Daytime
+Player_C votes for Kelly Lopez!
+Player_J: Well it seems the mafia missed their first chance mwuhaha
+Player_S: who should we get rid of?
+Player_O: I don't konw
+Player_J: Let's see who speaks up.
+Player_J: I mean probably vote with 30 seconds left at least.
+Player_S: kelly?
+Player_J: Ronald, William, Kelly, Brandy are still quiet
+Player_S votes for Kelly Lopez!
+Player_C: I'm here.  I just hate to pick someone to get rid of.
+Player_J votes for Kelly Lopez!
+Player_O votes for Kelly Lopez!
+Player_J: Well it looks like the majority picked poor K. Lo
+Phase Change to Nighttime: Victim - Kelly Lopez
+Players: ['Player_C:mafia', 'Player_S:town', 'Player_O:town', 'Player_J:town']

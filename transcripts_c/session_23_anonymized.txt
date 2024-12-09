@@ -1,0 +1,35 @@
+Phase Change to Daytime: Victim - Ryan Vazquez
+Player_Y: brent graham
+Player_C votes for Player_Y!
+Player_B votes for Player_R!
+Player_S: Hey everyone! Nicole here, ready to follow the crowd!
+Player_Y: Adam williams
+Player_Q: brent graham
+Player_Z: Hello everyone.
+Player_R: Stacy Jensen
+Player_Y: Brent Graham
+Player_O: hi
+Player_Z: Derek Giles
+Player_C: Oh, shoot.  I can't change my vote.  :(
+Player_R votes for Player_Q!
+Player_Q: heheh
+Player_Y: Derek, you should be able to
+Player_Y: brent graham
+Player_Q: no it says not changeable
+Player_C: What are we supposed to base this vote on?  My button says "vote (note changeable)"
+Player_Z votes for Player_C!
+Player_Q: majority
+Player_Y: go with brent then
+Player_S votes for Player_C!
+Player_C: Awww.... now you're going to kill me.  Lol.  
+Player_S: You can still click it, just can't change it afterwards.
+Player_O votes for Player_R!
+Player_Q: I'm going with brent sorry :-[
+Player_Q votes for Player_R!
+Player_S: Hey, gotta kill someone.
+Player_Y: yup, have to pick someone, lol
+Player_Q: how do we get rid of the mafia??
+Player_R: sad
+Player_S: Just don't hold anything against me if I voted for you and you survive!
+Phase Change to Nighttime: Victim - Brent Graham
+Players: ['Player_R:mafia', 'Player_S:town', 'Player_O:town', 'Player_Y:mafia', 'Player_B:town', 'Player_C:town', 'Player_Z:town', 'Player_Q:town']

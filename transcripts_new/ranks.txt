@@ -1,0 +1,1346 @@
+File: session_1.txt
+Session: 1
+Rank:
+Mary Trujillo
+Troy Thomas
+Natalie Morris
+Ryan Hodges
+Diana Pennington
+Christina Rollins
+Christopher Smith
+{'Ryan Hodges': 'mafia', 'Mary Trujillo': 'town', 'Christopher Smith': 'town', 'Diana Pennington': 'town', 'Christina Rollins': 'town', 'Troy Thomas': 'town', 'Natalie Morris': 'mafia'}
+
+
+File: session_10.txt
+Session: 10
+Rank:
+1. Stacy Dillon
+2. Ashley Adams
+3. Michael Williams
+4. Natasha Cooke
+5. Aaron Morse
+6. Alicia Diaz
+7. Adam Ward
+8. Kyle Mack
+9. Mary Arnold
+{'Kyle Mack': 'town', 'Ashley Adams': 'town', 'Mary Arnold': 'town', 'Natasha Cooke': 'mafia', 'Adam Ward': 'town', 'Alicia Diaz': 'town', 'Stacy Dillon': 'town', 'Michael Williams': 'mafia', 'Aaron Morse': 'town'}
+
+
+File: session_10_anonymized.txt
+Session: session_10
+Rank:
+1. Player_P
+2. Player_E
+3. Player_N
+4. Player_Q
+5. Player_D
+6. Player_J
+7. Player_U
+8. Player_B
+9. Player_R
+
+Actualy likely to be Mafia: Player_E
+{'Player_E': 'town', 'Player_R': 'town', 'Player_N': 'town', 'Player_J': 'mafia', 'Player_U': 'town', 'Player_Q': 'town', 'Player_P': 'town', 'Player_B': 'mafia', 'Player_D': 'town'}
+
+
+File: session_11.txt
+Session: 11
+Rank:
+Marissa Hernandez
+John Willis
+Benjamin Miller
+William Sullivan
+Bridget Russell
+{'Bridget Russell': 'mafia', 'John Willis': 'town', 'William Sullivan': 'town', 'Benjamin Miller': 'town', 'Marissa Hernandez': 'mafia'}
+
+
+File: session_11_anonymized.txt
+Session: 11
+Rank:
+ Player_N
+ Player_P
+ Player_E
+ Player_F
+ Player_K
+{'Player_F': 'mafia', 'Player_P': 'town', 'Player_K': 'town', 'Player_E': 'town', 'Player_N': 'mafia'}
+
+
+File: session_12.txt
+Session: 12
+Rank:
+1. Tyrone Mckee
+2. Jennifer Bond
+3. Benjamin Neal
+4. Laura Baldwin
+5. Jacob Pearson
+6. Alexander Ford
+7. David Martinez
+8. Timothy Moore
+{'Laura Baldwin': 'town', 'Alexander Ford': 'town', 'Jacob Pearson': 'town', 'Benjamin Neal': 'town', 'Jennifer Bond': 'town', 'David Martinez': 'town', 'Tyrone Mckee': 'town', 'Timothy Moore': 'mafia', 'Daniel Mayer': 'mafia'}
+
+
+File: session_12_anonymized.txt
+Session: 12
+Rank:
+Player_F
+Player_Y
+Player_Q
+Player_W
+Player_J
+Player_G
+Player_H
+Player_E
+Player_U
+Actualy likely to be Mafia: Player_Y
+{'Player_U': 'town', 'Player_F': 'town', 'Player_Q': 'town', 'Player_E': 'town', 'Player_H': 'town', 'Player_G': 'town', 'Player_W': 'town', 'Player_J': 'mafia', 'Player_Y': 'mafia'}
+
+
+File: session_13.txt
+Session: 13
+Rank:
+Richard Johnson
+Paul Silva
+Bill Brock
+Kimberly Sullivan
+Megan Jackson
+Thomas Pruitt
+Erica Joseph
+Daniel Humphrey
+Sara Marshall
+Actualy likely to be Mafia: Paul Silva, Bill Brock
+{'Megan Jackson': 'town', 'Sara Marshall': 'town', 'Daniel Humphrey': 'mafia', 'Erica Joseph': 'town', 'Thomas Pruitt': 'town', 'Bill Brock': 'town', 'Kimberly Sullivan': 'town', 'Paul Silva': 'mafia', 'Richard Johnson': 'town'}
+
+
+File: session_13_anonymized.txt
+Session: 13
+Rank:
+1. Player_F
+2. Player_R
+3. Player_N
+4. Player_O
+5. Player_V
+6. Player_H
+7. Player_D
+8. Player_E
+9. Player_U
+{'Player_U': 'town', 'Player_R': 'town', 'Player_N': 'mafia', 'Player_E': 'town', 'Player_V': 'town', 'Player_H': 'town', 'Player_O': 'town', 'Player_F': 'mafia', 'Player_D': 'town'}
+
+
+File: session_14.txt
+Session: 14
+Rank:
+1. Kelly Mclaughlin
+2. Austin Williams
+3. Abigail Perez
+4. Matthew Franco
+5. Jay Williams
+6. Jason Rodriguez
+7. Michael Sharp
+8. Jerry Pearson
+9. John Bridges
+10. Austin Williams
+{'Michael Sharp': 'town', 'Austin Williams': 'town', 'Jason Rodriguez': 'town', 'John Bridges': 'town', 'Kelly Mclaughlin': 'town', 'Abigail Perez': 'mafia', 'Jerry Pearson': 'town', 'Jay Williams': 'mafia', 'Matthew Franco': 'town'}
+
+
+File: session_14_anonymized.txt
+Session: 14
+Rank:
+1. Player_P
+2. Player_S
+3. Player_D
+4. Player_V
+5. Player_A
+6. Player_N
+7. Player_C
+8. Player_J
+9. Player_H
+Actualy likely to be Mafia: Player_P
+{'Player_H': 'town', 'Player_D': 'town', 'Player_V': 'town', 'Player_N': 'town', 'Player_J': 'town', 'Player_C': 'mafia', 'Player_S': 'town', 'Player_A': 'mafia', 'Player_P': 'town'}
+
+
+File: session_15.txt
+Session: 15
+Rank:
+1. Samuel Rogers
+2. Kevin Vazquez
+3. Tiffany Hernandez
+4. Jamie Meadows
+5. Nicole Fields
+6. Marvin Jackson
+7. Lisa Wright
+8. Robin Green
+9. Michelle Guerra
+10. Tristan Rodriguez
+Actualy likely to be Mafia: Jamie Meadows, Justin Lee
+{'Jamie Meadows': 'mafia', 'Kevin Vazquez': 'town', 'Michelle Guerra': 'town', 'Marvin Jackson': 'town', 'Samuel Rogers': 'town', 'Nicole Fields': 'town', 'Robin Green': 'town', 'Lisa Wright': 'town', 'Tiffany Hernandez': 'mafia', 'Tristan Rodriguez': 'town'}
+
+
+File: session_15_anonymized.txt
+Session: 15
+Rank:
+1. Player_J
+2. Player_W
+3. Player_I
+4. Player_P
+5. Player_G
+6. Player_H
+7. Player_E
+8. Player_N
+9. Player_O
+10. Player_T
+Actualy likely to be Mafia: Player_J
+{'Player_T': 'mafia', 'Player_H': 'town', 'Player_G': 'town', 'Player_P': 'town', 'Player_J': 'town', 'Player_W': 'town', 'Player_I': 'town', 'Player_E': 'town', 'Player_N': 'mafia', 'Player_O': 'town'}
+
+
+File: session_16.txt
+Session: 16
+Rank:
+1. Sara Reed
+2. Alexander Griffin
+3. Eric Schneider
+4. Ruben Sanchez
+5. Ashley Bautista
+6. Kenneth Chavez
+7. Cynthia Bird
+8. Mitchell Schultz
+9. Beth Ramsey
+10. Kendra Craig
+{'Beth Ramsey': 'town', 'Kenneth Chavez': 'town', 'Kendra Craig': 'town', 'Ashley Bautista': 'town', 'Sara Reed': 'mafia', 'Mitchell Schultz': 'town', 'Alexander Griffin': 'town', 'Eric Schneider': 'town', 'Cynthia Bird': 'town', 'Ruben Sanchez': 'mafia'}
+
+
+File: session_16_anonymized.txt
+Session: 16
+Rank:
+1. Player_E
+2. Player_P
+3. Player_M
+4. Player_G
+5. Player_T
+6. Player_K
+7. Player_S
+8. Player_Q
+9. Player_H
+10. Player_O
+
+Actualy likely to be Mafia: Player_P
+{'Player_K': 'town', 'Player_O': 'town', 'Player_M': 'town', 'Player_T': 'town', 'Player_S': 'mafia', 'Player_Q': 'town', 'Player_H': 'town', 'Player_P': 'town', 'Player_E': 'town', 'Player_G': 'mafia'}
+
+
+File: session_17.txt
+Session: 17
+Rank:
+1. Matthew Bridges
+2. Ernest Nguyen
+3. James Lopez
+4. Blake Gordon
+5. Bryan Castillo
+6. Bob Woods
+7. Danielle Little
+8. Kathryn Reid
+9. Dr. Kelli Brooks
+
+Actualy likely to be Mafia: none
+{'Bob Woods': 'mafia', 'Matthew Bridges': 'town', 'Bryan Castillo': 'town', 'Ernest Nguyen': 'town', 'James Lopez': 'town', 'Blake Gordon': 'town', 'Danielle Little': 'town', 'Kathryn Reid': 'town', 'Dr. Kelli Brooks': 'mafia'}
+
+
+File: session_17_anonymized.txt
+Session: 17
+Rank:
+1. Player_J
+2. Player_Z
+3. Player_W
+4. Player_A
+5. Player_P
+6. Player_D
+7. Player_K
+8. Player_N
+9. Player_I
+Actualy likely to be Mafia: none
+{'Player_W': 'mafia', 'Player_P': 'town', 'Player_I': 'town', 'Player_J': 'town', 'Player_Z': 'town', 'Player_N': 'town', 'Player_A': 'town', 'Player_K': 'town', 'Player_D': 'mafia'}
+
+
+File: session_18.txt
+Session: 18
+Rank:
+1. Cody Henderson Jr.
+2. Brandy Knight
+3. Elizabeth Mason
+4. Adam Davidson
+
+Actualy likely to be Mafia: none
+{'Adam Davidson': 'town', 'Elizabeth Mason': 'town', 'Brandy Knight': 'mafia', 'Cody Henderson Jr.': 'town'}
+
+
+File: session_18_anonymized.txt
+Session: 18
+Rank:
+1. Player_W
+2. Player_Y
+3. Player_A
+4. Player_S
+Actualy likely to be Mafia: none
+{'Player_S': 'town', 'Player_A': 'town', 'Player_Y': 'mafia', 'Player_W': 'town'}
+
+
+File: session_19.txt
+Session: 19
+Rank:
+Anthony Floyd
+Joseph Miller
+Frank Butler
+Howard Robinson
+Michael Petersen
+John Thompson
+Gregory Walker
+Tanya Kennedy
+Actualy likely to be Mafia: Joseph Miller, Frank Butler
+{'Frank Butler': 'town', 'Tanya Kennedy': 'town', 'John Thompson': 'mafia', 'Michael Petersen': 'town', 'Anthony Floyd': 'town', 'Gregory Walker': 'town', 'Howard Robinson': 'town', 'Joseph Miller': 'town'}
+
+
+File: session_19_anonymized.txt
+Session: 19
+Rank:
+Player_A
+Player_X
+Player_H
+Player_E
+Player_P
+Player_Y
+Player_U
+Player_D
+{'Player_P': 'town', 'Player_Y': 'town', 'Player_E': 'mafia', 'Player_U': 'town', 'Player_D': 'town', 'Player_X': 'town', 'Player_A': 'town', 'Player_H': 'town'}
+
+
+File: session_1_anonymized.txt
+Session: 1
+Rank:
+Player_P
+Player_F
+Player_D
+Player_J
+Player_W
+Player_L
+Player_M
+Actualy likely to be Mafia: Player_J
+{'Player_M': 'mafia', 'Player_L': 'town', 'Player_P': 'town', 'Player_D': 'town', 'Player_F': 'town', 'Player_J': 'town', 'Player_W': 'mafia'}
+
+
+File: session_2.txt
+Session: 2
+
+Rank:
+1. Diane Mooney
+2. Alicia Randall
+3. Jordan May
+4. Shawn Bailey
+5. Stephen Clark
+6. Donna Cook
+7. Chad Collins
+8. Tricia Miller
+9. Gabriel Durham
+10. Frances Kelly
+
+Actually likely to be Mafia: Jordan May
+{'Stephen Clark': 'town', 'Gabriel Durham': 'town', 'Shawn Bailey': 'mafia', 'Donna Cook': 'town', 'Tricia Miller': 'mafia', 'Chad Collins': 'town', 'Diane Mooney': 'town', 'Frances Kelly': 'town', 'Alicia Randall': 'town', 'Jordan May': 'town'}
+
+
+File: session_20.txt
+Session: 20
+Rank:
+1. Brittany Taylor
+2. Nathan Lynch
+3. Nicole Lang
+4. Julian Barrett
+5. Christopher Turner
+6. Veronica Snyder
+7. Mr. Michael Nelson Jr.
+Actualy likely to be Mafia: Nathan Lynch
+{'Mr. Michael Nelson Jr.': 'mafia', 'Brittany Taylor': 'town', 'Nicole Lang': 'town', 'Julian Barrett': 'mafia', 'Christopher Turner': 'town', 'Nathan Lynch': 'town', 'Veronica Snyder': 'town'}
+
+
+File: session_20_anonymized.txt
+Session: 20
+Rank:
+1. Player_W
+2. Player_G
+3. Player_P
+4. Player_I
+5. Player_S
+6. Player_B
+7. Player_U
+
+Actualy likely to be Mafia: Player_W
+{'Player_W': 'mafia', 'Player_B': 'town', 'Player_U': 'town', 'Player_P': 'mafia', 'Player_G': 'town', 'Player_I': 'town', 'Player_S': 'town'}
+
+
+File: session_21.txt
+Session: 21
+Rank:
+1. Erin Jackson DVM
+2. Stephanie Gonzalez
+3. Cristian Roberts
+4. Brandon Cruz
+5. William Stanley
+6. Christopher Turner
+7. Michael Anderson
+8. Henry Brown
+9. Jonathan Kim
+10. Erin Cabrera
+{'Henry Brown': 'town', 'William Stanley': 'town', 'Jonathan Kim': 'town', 'Michael Anderson': 'town', 'Stephanie Gonzalez': 'mafia', 'Erin Jackson DVM': 'town', 'Christopher Turner': 'mafia', 'Brandon Cruz': 'town', 'Cristian Roberts': 'town', 'Erin Cabrera': 'town'}
+
+
+File: session_21_anonymized.txt
+Session: 21
+Rank:
+1. Player_T
+2. Player_V
+3. Player_E
+4. Player_D
+5. Player_Q
+6. Player_L
+7. Player_K
+8. Player_G
+9. Player_X
+10. Player_J
+{'Player_J': 'town', 'Player_V': 'town', 'Player_G': 'town', 'Player_X': 'town', 'Player_D': 'mafia', 'Player_T': 'town', 'Player_L': 'mafia', 'Player_Q': 'town', 'Player_E': 'town', 'Player_K': 'town'}
+
+
+File: session_22.txt
+Session: 22
+Rank:
+1. Aaron Vaughan
+2. Latoya Carter
+3. Kevin Morales
+4. Christine King
+5. Natalie Velasquez
+6. Nancy Foley
+7. Nathan Pham
+8. Dr. Christopher Hamilton
+9. Stephen Baldwin
+Actualy likely to be Mafia: 'none'
+{'Dr. Christopher Hamilton': 'town', 'Christine King': 'town', 'Nancy Foley': 'town', 'Nathan Pham': 'town', 'Stephen Baldwin': 'town', 'Latoya Carter': 'town', 'Natalie Velasquez': 'mafia', 'Aaron Vaughan': 'town', 'Kevin Morales': 'mafia'}
+
+
+File: session_22_anonymized.txt
+Session: session_22_anonymized.txt
+Rank:
+1. Player_B
+2. Player_Z
+3. Player_W
+4. Player_Y
+5. Player_C
+6. Player_F
+7. Player_A
+8. Player_Q
+9. Player_V
+
+Actually likely to be Mafia: none
+{'Player_W': 'town', 'Player_B': 'town', 'Player_V': 'town', 'Player_Y': 'town', 'Player_C': 'town', 'Player_F': 'town', 'Player_Z': 'mafia', 'Player_A': 'town', 'Player_Q': 'mafia'}
+
+
+File: session_23.txt
+Session: 23
+Rank:
+1. Nicole Ross
+2. Scott Marshall
+3. Lisa Rose
+4. Stacy Jensen
+5. Adam Williams
+6. Jacob Brown
+7. Brent Graham
+8. Derek Giles
+
+Actualy likely to be Mafia: none
+{'Jacob Brown': 'town', 'Derek Giles': 'town', 'Stacy Jensen': 'town', 'Nicole Ross': 'town', 'Scott Marshall': 'mafia', 'Brent Graham': 'mafia', 'Lisa Rose': 'town', 'Adam Williams': 'town'}
+
+
+File: session_23_anonymized.txt
+Session: 23
+Rank:
+1. Player_F
+2. Player_M
+3. Player_B
+4. Player_Q
+5. Player_O
+6. Player_H
+7. Player_S
+8. Player_L
+
+Actualy likely to be Mafia: none
+{'Player_L': 'town', 'Player_F': 'town', 'Player_M': 'town', 'Player_B': 'town', 'Player_O': 'mafia', 'Player_Q': 'mafia', 'Player_H': 'town', 'Player_S': 'town'}
+
+
+File: session_24.txt
+Session: 24
+Rank:
+Justin Johnson
+Felicia Schwartz
+Danny Owens
+Monica Sweeney
+Benjamin Wright
+Colin Case
+Tyler Howell
+Curtis Lawrence
+
+Actually likely to be Mafia: Benjamin Wright
+{'Danny Owens': 'town', 'Justin Johnson': 'town', 'Curtis Lawrence': 'town', 'Monica Sweeney': 'mafia', 'Tyler Howell': 'town', 'Colin Case': 'town', 'Benjamin Wright': 'town', 'Felicia Schwartz': 'mafia'}
+
+
+File: session_24_anonymized.txt
+Session: 24
+Rank:
+Player_F
+Player_R
+Player_M
+Player_K
+Player_L
+Player_D
+Player_V
+Player_Y
+Actualy likely to be Mafia: Player_F, Player_R
+{'Player_K': 'town', 'Player_M': 'town', 'Player_L': 'town', 'Player_V': 'mafia', 'Player_Y': 'town', 'Player_D': 'town', 'Player_F': 'town', 'Player_R': 'mafia'}
+
+
+File: session_25.txt
+Session: 25
+
+Rank:
+
+1. Wendy Leach
+2. Harold Price
+3. Rebecca Nguyen
+4. Abigail Clark
+5. Benjamin Pollard
+6. Bryce Gibson
+7. Jordan Downs
+8. John Luna
+
+Actualy likely to be Mafia: Wendy Leach
+{'Abigail Clark': 'town', 'John Luna': 'town', 'Bryce Gibson': 'town', 'Jordan Downs': 'town', 'Rebecca Nguyen': 'town', 'Benjamin Pollard': 'mafia', 'Harold Price': 'mafia', 'Wendy Leach': 'town'}
+
+
+File: session_25_anonymized.txt
+Session: 25
+
+Rank:
+1. Player_I
+2. Player_G
+3. Player_V
+4. Player_C
+5. Player_B
+6. Player_D
+7. Player_E
+8. Player_F
+
+Actually likely to be Mafia: none
+{'Player_G': 'town', 'Player_F': 'town', 'Player_E': 'town', 'Player_B': 'town', 'Player_V': 'town', 'Player_D': 'mafia', 'Player_I': 'mafia', 'Player_C': 'town'}
+
+
+File: session_26.txt
+Session: 26
+Rank:
+Jennifer Diaz
+Theresa Torres
+Sarah Williams
+Joshua Hebert Jr.
+Actualy likely to be Mafia: none
+{'Sarah Williams': 'town', 'Jennifer Diaz': 'mafia', 'Joshua Hebert Jr.': 'town', 'Theresa Torres': 'town'}
+
+
+File: session_26_anonymized.txt
+Session: 26
+Rank:
+1. Player_Z
+2. Player_J
+3. Player_S
+4. Player_K
+Actualy likely to be Mafia: Player_Z
+{'Player_K': 'town', 'Player_Z': 'mafia', 'Player_J': 'town', 'Player_S': 'town'}
+
+
+File: session_27.txt
+Session: 27
+Rank:
+1. Elizabeth Andrews
+2. Rachel Costa
+3. Jamie Burch
+4. Lindsay Johnson
+5. Jorge Mcintosh
+6. Melissa Hunt
+7. Erin Blevins
+8. Brittany Evans
+
+Actualy likely to be Mafia: Elizabeth Andrews
+{'Erin Blevins': 'mafia', 'Melissa Hunt': 'town', 'Jorge Mcintosh': 'town', 'Brittany Evans': 'mafia', 'Jamie Burch': 'town', 'Lindsay Johnson': 'town', 'Elizabeth Andrews': 'town', 'Rachel Costa': 'town'}
+
+
+File: session_27_anonymized.txt
+Session: session_27
+Rank:
+ Player_J
+ Actualy likely to be Mafia: none
+{'Player_E': 'mafia', 'Player_X': 'town', 'Player_I': 'town', 'Player_M': 'mafia', 'Player_W': 'town', 'Player_L': 'town', 'Player_J': 'town', 'Player_R': 'town'}
+
+
+File: session_28.txt
+Session: 28
+Rank:
+Rodney Maynard
+Sandra Reese
+Charles Graham
+Mike Burton
+Judith Sharp
+Scott Thomas
+William Holmes
+Sharon Parker
+
+Actualy likely to be Mafia: Charles Graham
+{'Mike Burton': 'mafia', 'Scott Thomas': 'town', 'Charles Graham': 'town', 'Rodney Maynard': 'town', 'Judith Sharp': 'town', 'William Holmes': 'mafia', 'Sandra Reese': 'town', 'Sharon Parker': 'town'}
+
+
+File: session_28_anonymized.txt
+Session: 28
+
+Rank:
+1. Player_A
+2. Player_X
+3. Player_E
+4. Player_B
+5. Player_K
+6. Player_H
+7. Player_I
+8. Player_M
+
+Actually likely to be Mafia: Player_A
+{'Player_M': 'mafia', 'Player_I': 'town', 'Player_B': 'town', 'Player_E': 'town', 'Player_A': 'town', 'Player_K': 'mafia', 'Player_X': 'town', 'Player_H': 'town'}
+
+
+File: session_29.txt
+Session: 29
+Rank:
+Lynn Reynolds
+Lisa Harris
+James Shaw
+Michael Lucero
+Pamela Rowe
+Lindsay Lamb
+Heather Valentine
+
+Actualy likely to be Mafia: Lisa Harris, Lynn Reynolds
+{'Lynn Reynolds': 'town', 'Pamela Rowe': 'town', 'James Shaw': 'town', 'Lindsay Lamb': 'town', 'Lisa Harris': 'mafia', 'Michael Lucero': 'town', 'Heather Valentine': 'town'}
+
+
+File: session_29_anonymized.txt
+Session: session_29
+Rank:
+1. Player_B
+2. Player_R
+3. Player_S
+4. Player_M
+5. Player_J
+6. Player_Q
+7. Player_U
+8. none
+{'Player_S': 'town', 'Player_J': 'town', 'Player_U': 'town', 'Player_Q': 'town', 'Player_M': 'mafia', 'Player_B': 'town', 'Player_R': 'town'}
+
+
+File: session_2_anonymized.txt
+Session: 2
+Rank:
+1. Player_J
+2. Player_T
+3. Player_I
+4. Player_O
+5. Player_E
+6. Player_K
+7. Player_N
+8. Player_V
+9. Player_B
+10. Player_D
+
+Actualy likely to be Mafia: Player_J
+{'Player_B': 'town', 'Player_N': 'town', 'Player_T': 'mafia', 'Player_O': 'town', 'Player_E': 'mafia', 'Player_K': 'town', 'Player_D': 'town', 'Player_I': 'town', 'Player_J': 'town', 'Player_V': 'town'}
+
+
+File: session_3.txt
+Session: session_3
+Rank:
+1. Roy Moore
+2. Scott Glenn
+3. Kimberly Ibarra
+4. Jeremy Davis
+5. Harold Peterson
+6. Ryan Lee
+7. William Reed
+8. Diana Ayala
+9. Mark Espinoza
+
+Actualy likely to be Mafia: Scott Glenn, Kimberly Ibarra
+{'William Reed': 'town', 'Diana Ayala': 'town', 'Jeremy Davis': 'mafia', 'Harold Peterson': 'mafia', 'Ryan Lee': 'town', 'Mark Espinoza': 'town', 'Scott Glenn': 'town', 'Kimberly Ibarra': 'town', 'Roy Moore': 'town'}
+
+
+File: session_30.txt
+Session: 30
+Rank:
+1. Ashley Stout
+2. Danielle Oliver
+3. Jill Mcdonald
+4. Donna Farrell
+5. Alicia Esparza
+6. Laura Buck
+7. Nicholas Davis
+8. Cory Barron
+
+Actualy likely to be Mafia: Danielle Oliver
+{'Nicholas Davis': 'town', 'Cory Barron': 'town', 'Jill Mcdonald': 'town', 'Laura Buck': 'town', 'Donna Farrell': 'town', 'Alicia Esparza': 'town', 'Ashley Stout': 'town', 'Danielle Oliver': 'mafia'}
+
+
+File: session_30_anonymized.txt
+Session: 30
+Rank:
+1. Player_T
+2. Player_W
+3. Player_V
+4. Player_Z
+5. Player_I
+6. Player_Q
+7. Player_C
+8. Player_Y
+Actualy likely to be Mafia: Player_W
+{'Player_T': 'town', 'Player_V': 'town', 'Player_Z': 'town', 'Player_I': 'town', 'Player_Y': 'town', 'Player_Q': 'town', 'Player_W': 'town', 'Player_C': 'mafia'}
+
+
+File: session_31.txt
+Session: 31
+Rank:
+1. Ryan Russell
+2. Brent Green
+3. Kellie Anderson
+4. Kimberly Stevenson
+5. Paul Schneider
+6. Stephanie Espinoza
+7. Jon Gutierrez
+8. none
+{'Jon Gutierrez': 'mafia', 'Brent Green': 'town', 'Kellie Anderson': 'town', 'Stephanie Espinoza': 'town', 'Kimberly Stevenson': 'town', 'Ryan Russell': 'mafia', 'Paul Schneider': 'town', 'Joshua Herman': 'town'}
+
+
+File: session_31_anonymized.txt
+Session: 31
+Rank:
+1. Player_F
+2. Player_N
+3. Player_J
+4. Player_M
+5. Player_A
+6. Player_P
+7. Player_C
+8. Player_Z
+
+Actualy likely to be Mafia: Player_N
+{'Player_Z': 'mafia', 'Player_M': 'town', 'Player_P': 'town', 'Player_N': 'town', 'Player_C': 'town', 'Player_J': 'mafia', 'Player_A': 'town', 'Player_F': 'town'}
+
+
+File: session_32.txt
+Session: 32
+Rank:
+Bryan Brown
+Terri Green
+Richard Adams MD
+Carolyn Santana
+Caroline Moss
+Melanie Salas
+
+Actualy likely to be Mafia: Carolyn Santana, Richard Adams MD
+{'Caroline Moss': 'town', 'Bryan Brown': 'mafia', 'Terri Green': 'town', 'Carolyn Santana': 'town', 'Melanie Salas': 'mafia', 'Richard Adams MD': 'town'}
+
+
+File: session_32_anonymized.txt
+Session: session_32
+Rank:
+Player_N
+Player_B
+Player_C
+Player_R
+Player_F
+Player_Z
+
+Actually likely to be Mafia: Player_B, Player_F
+{'Player_Z': 'town', 'Player_C': 'mafia', 'Player_N': 'town', 'Player_B': 'town', 'Player_F': 'mafia', 'Player_R': 'town'}
+
+
+File: session_33.txt
+Session: 33
+Rank:
+1. Shannon Ryan
+2. Heather French
+3. Christina Walker
+4. Michael Carter
+5. Dana Wilson
+6. Tamara Wilkinson
+7. Mark Johnson MD
+8. Nancy Garcia
+9. Daniel Parks
+
+Actualy likely to be Mafia: Christina Walker, Michael Carter
+{'Nancy Garcia': 'town', 'Dana Wilson': 'town', 'Tamara Wilkinson': 'town', 'Mark Johnson MD': 'town', 'Christina Walker': 'town', 'Michael Carter': 'mafia', 'Shannon Ryan': 'town', 'Heather French': 'town', 'Daniel Parks': 'town'}
+
+
+File: session_33_anonymized.txt
+Session: 33
+
+Rank:
+Player_C
+Player_E
+Player_G
+Player_W
+Player_H
+Player_I
+Player_Z
+Player_A
+Player_U
+none
+{'Player_A': 'town', 'Player_H': 'town', 'Player_Z': 'town', 'Player_W': 'town', 'Player_E': 'town', 'Player_G': 'mafia', 'Player_C': 'town', 'Player_U': 'town', 'Player_I': 'town'}
+
+
+File: session_34.txt
+Session: 34
+Rank:
+Rachael Cunningham
+Lori Solomon
+George Le
+Dalton Frazier
+James Lamb
+Daniel Jones
+Maxwell Reyes
+Eric Fisher
+James Martin
+
+Actualy likely to be Mafia: none
+{'Eric Fisher': 'mafia', 'George Le': 'town', 'Maxwell Reyes': 'town', 'Lori Solomon': 'town', 'James Martin': 'town', 'Daniel Jones': 'town', 'James Lamb': 'mafia', 'Rachael Cunningham': 'town', 'Dalton Frazier': 'town'}
+
+
+File: session_34_anonymized.txt
+Session: 34
+Rank:
+1. Player_B
+2. Player_G
+3. Player_X
+4. Player_R
+5. Player_Q
+6. Player_M
+7. Player_C
+8. Player_D
+9. Player_U
+{'Player_G': 'mafia', 'Player_R': 'town', 'Player_Q': 'town', 'Player_U': 'town', 'Player_B': 'town', 'Player_C': 'town', 'Player_D': 'mafia', 'Player_X': 'town', 'Player_M': 'town'}
+
+
+File: session_35.txt
+Session: 35
+Rank:
+1. Brandy Waller
+2. John Davis
+3. Cassandra Miller
+4. Mary Mullins
+5. Alyssa Washington
+6. Ms. Yvette Davis
+7. Robert Stewart MD
+Actualy likely to be Mafia: none
+{'Robert Stewart MD': 'town', 'John Davis': 'town', 'Cassandra Miller': 'town', 'Alyssa Washington': 'mafia', 'Brandy Waller': 'town', 'Mary Mullins': 'mafia', 'Ms. Yvette Davis': 'town'}
+
+
+File: session_35_anonymized.txt
+Session: 35
+
+Rank:
+1. Player_B
+2. Player_P
+3. Player_J
+4. Player_W
+5. Player_R
+6. Player_D
+7. Player_I
+8. none
+{'Player_D': 'town', 'Player_J': 'town', 'Player_I': 'town', 'Player_B': 'mafia', 'Player_W': 'town', 'Player_R': 'mafia', 'Player_P': 'town'}
+
+
+File: session_36.txt
+Session: 36
+Rank:
+1. Matthew Ortega
+2. Amanda Carson
+3. Richard Walter
+4. Jodi Williams
+5. Vanessa Berry
+6. Autumn Martinez
+7. Juan Harris
+8. Caroline Hansen
+
+Actualy likely to be Mafia: none
+{'Vanessa Berry': 'town', 'Amanda Carson': 'town', 'Autumn Martinez': 'town', 'Caroline Hansen': 'town', 'Jodi Williams': 'town', 'Juan Harris': 'town', 'Matthew Ortega': 'mafia', 'Richard Walter': 'mafia'}
+
+
+File: session_36_anonymized.txt
+Session: 36
+Rank:
+1. Player_H
+2. Player_O
+3. Player_F
+4. Player_J
+5. Player_K
+6. Player_C
+7. Player_E
+8. Player_T
+{'Player_C': 'town', 'Player_O': 'town', 'Player_K': 'town', 'Player_T': 'town', 'Player_J': 'town', 'Player_E': 'town', 'Player_F': 'mafia', 'Player_H': 'mafia'}
+
+
+File: session_37.txt
+Session: 37
+Rank:
+1. Elizabeth Saunders
+2. Mariah Burke
+3. Dakota Kelly
+4. Ryan Richardson
+5. Jordan Rojas
+6. Kaitlyn Martinez
+7. Jake Pierce
+8. Michelle Graham
+Actualy likely to be Mafia: Elizabeth Saunders
+{'Michelle Graham': 'town', 'Elizabeth Saunders': 'mafia', 'Kaitlyn Martinez': 'town', 'Jake Pierce': 'town', 'Mariah Burke': 'mafia', 'Dakota Kelly': 'town', 'Ryan Richardson': 'town', 'Jordan Rojas': 'town'}
+
+
+File: session_37_anonymized.txt
+Session: 37
+Rank:
+1. Player_Z
+2. Player_R
+3. Player_V
+4. Player_B
+5. Player_K
+6. Player_Q
+7. Player_J
+8. Player_C
+9. Player_Richardson, Ryan (Note: This player was not part of the original game and introduced themselves in the middle phase)
+Actualy likely to be Mafia: none
+{'Player_R': 'town', 'Player_Z': 'mafia', 'Player_Q': 'town', 'Player_K': 'town', 'Player_B': 'mafia', 'Player_J': 'town', 'Player_C': 'town', 'Player_V': 'town'}
+
+
+File: session_38.txt
+Session: 38
+Rank:
+1. Ryan Ray
+2. Cathy Lopez
+3. Regina Martin
+4. James Smith
+5. Garrett Baker
+6. Steven Brown
+7. Andrew Price
+8. Clayton Cook
+Actualy likely to be Mafia: none
+{'Clayton Cook': 'town', 'James Smith': 'town', 'Ryan Ray': 'town', 'Garrett Baker': 'mafia', 'Cathy Lopez': 'town', 'Steven Brown': 'town', 'Andrew Price': 'town', 'Regina Martin': 'town'}
+
+
+File: session_38_anonymized.txt
+Session: 38
+Rank:
+Player_Y
+Player_P
+Player_H
+Player_M
+Player_O
+Player_F
+Player_N
+Player_K
+
+Actualy likely to be Mafia: Player_P, Player_H
+{'Player_Y': 'town', 'Player_P': 'town', 'Player_H': 'town', 'Player_M': 'mafia', 'Player_O': 'town', 'Player_F': 'town', 'Player_N': 'town', 'Player_K': 'town'}
+
+
+File: session_39.txt
+Session: 39
+Rank:
+1. Trevor Brown
+2. Abigail Perez
+3. Christina Figueroa
+4. Louis Webb
+5. Jordan Vincent
+6. Justin Rivas Jr.
+7. Christine Peterson
+8. Kevin Pearson
+
+Actually likely to be Mafia: None
+{'Kevin Pearson': 'town', 'Trevor Brown': 'town', 'Christine Peterson': 'mafia', 'Christina Figueroa': 'town', 'Abigail Perez': 'town', 'Justin Rivas Jr.': 'town', 'Louis Webb': 'mafia', 'Jordan Vincent': 'town'}
+
+
+File: session_39_anonymized.txt
+Session: 39
+
+Rank:
+
+1. Player_Y
+2. Player_W
+3. Player_S
+4. Player_B
+5. Player_A
+6. Player_M
+7. Player_Q
+8. Player_H
+
+Actualy likely to be Mafia: Player_B, Player_Y
+{'Player_Q': 'town', 'Player_Y': 'town', 'Player_H': 'mafia', 'Player_M': 'town', 'Player_A': 'town', 'Player_W': 'town', 'Player_B': 'mafia', 'Player_S': 'town'}
+
+
+File: session_3_anonymized.txt
+Session: 3
+Rank:
+Player_V
+Player_M
+Player_B
+Player_E
+Player_Q
+Player_T
+Player_J
+Player_C
+Player_U
+Actualy likely to be Mafia: Player_Q
+{'Player_V': 'town', 'Player_B': 'town', 'Player_Q': 'mafia', 'Player_M': 'mafia', 'Player_U': 'town', 'Player_J': 'town', 'Player_E': 'town', 'Player_T': 'town', 'Player_C': 'town'}
+
+
+File: session_4.txt
+Session: 4
+Rank:
+1. Amanda Pearson
+2. Danielle Castro
+3. Wendy White
+4. Nicolas Cole
+5. Chelsea Cook
+6. Gregory Ware
+7. Robin Rodriguez
+8. Matthew Taylor
+
+Actualy likely to be Mafia: Amanda Pearson, Danielle Castro, Wendy White
+{'Nicolas Cole': 'mafia', 'Chelsea Cook': 'town', 'Danielle Castro': 'town', 'Gregory Ware': 'town', 'Matthew Taylor': 'town', 'Robin Rodriguez': 'town', 'Wendy White': 'mafia', 'Amanda Pearson': 'town'}
+
+
+File: session_40.txt
+Session: session_40
+Rank:
+ Jose Gonzalez
+ Tiffany Hill
+ Cody Garner
+ Mark Baird
+ Peter Perez
+ Dr. Amy Mcdaniel
+ Kathryn Payne
+Actualy likely to be Mafia: none
+{'Peter Perez': 'town', 'Kathryn Payne': 'town', 'Jose Gonzalez': 'town', 'Tiffany Hill': 'mafia', 'Cody Garner': 'mafia', 'Mark Baird': 'town', 'Dr. Amy Mcdaniel': 'town'}
+
+
+File: session_40_anonymized.txt
+Session: 40
+Rank:
+1. Player_X
+2. Player_G
+3. Player_T
+4. Player_F
+5. Player_H
+6. Player_Y
+7. Player_J
+{'Player_H': 'town', 'Player_X': 'town', 'Player_G': 'town', 'Player_Y': 'mafia', 'Player_T': 'mafia', 'Player_F': 'town', 'Player_J': 'town'}
+
+
+File: session_41.txt
+Session: 41
+Rank:
+1. Mary Mata
+2. Amy Lewis
+3. William Frank MD
+4. Kimberly Harris
+5. Jamie Sanchez
+6. Shannon Diaz
+7. Damon Ryan
+8. Riley Webster
+{'Shannon Diaz': 'town', 'Mary Mata': 'town', 'William Frank MD': 'town', 'Jamie Sanchez': 'town', 'Kimberly Harris': 'town', 'Amy Lewis': 'mafia', 'Damon Ryan': 'town', 'Riley Webster': 'mafia'}
+
+
+File: session_41_anonymized.txt
+Session: 41
+Rank:
+1. Player_P
+2. Player_U
+3. Player_S
+4. Player_A
+5. Player_N
+6. Player_X
+7. Player_Y
+8. Player_D
+
+Actualy likely to be Mafia: Player_P
+{'Player_A': 'town', 'Player_Y': 'town', 'Player_U': 'town', 'Player_D': 'town', 'Player_N': 'town', 'Player_P': 'mafia', 'Player_X': 'town', 'Player_S': 'mafia'}
+
+
+File: session_42.txt
+Session: 42
+Rank:
+1. Katherine Hull
+2. James Perez
+3. Stephen Frank
+4. Ricardo Owens
+5. Kimberly Warren
+6. Jason Smith
+7. Robert Anderson
+8. Katherine Harper
+
+Actualy likely to be Mafia: Katherine Hull, James Perez
+{'Jason Smith': 'mafia', 'Kimberly Warren': 'town', 'Ricardo Owens': 'town', 'Katherine Harper': 'town', 'Katherine Hull': 'town', 'Robert Anderson': 'mafia', 'James Perez': 'town', 'Stephen Frank': 'town'}
+
+
+File: session_42_anonymized.txt
+Session: 42
+Rank:
+1. Player_B
+2. Player_L
+3. Player_E
+4. Player_A
+5. Player_Z
+6. Player_T
+7. Player_J
+8. Player_D
+Actualy likely to be Mafia: none
+{'Player_D': 'mafia', 'Player_A': 'town', 'Player_Z': 'town', 'Player_J': 'town', 'Player_L': 'town', 'Player_T': 'mafia', 'Player_E': 'town', 'Player_B': 'town'}
+
+
+File: session_43.txt
+Session: 43
+Rank:
+1. Valerie White
+2. Danielle Silva
+3. Carol Stone
+4. Diane Jennings
+5. Andrea Lee
+6. Zachary Hurley
+7. Jeffrey Morris
+8. Laura Pena
+Actualy likely to be Mafia: Valerie White, Danielle Silva
+{'Diane Jennings': 'town', 'Valerie White': 'town', 'Carol Stone': 'town', 'Andrea Lee': 'town', 'Zachary Hurley': 'mafia', 'Laura Pena': 'mafia', 'Danielle Silva': 'town', 'Jeffrey Morris': 'town'}
+
+
+File: session_43_anonymized.txt
+Session: 43
+Rank:
+1. Player_B
+2. Player_K
+3. Player_E
+4. Player_U
+5. Player_P
+6. Player_O
+7. Player_H
+8. Player_S
+Actualy likely to be Mafia: Player_H
+{'Player_O': 'town', 'Player_B': 'town', 'Player_S': 'town', 'Player_P': 'town', 'Player_H': 'mafia', 'Player_K': 'mafia', 'Player_E': 'town', 'Player_U': 'town'}
+
+
+File: session_44.txt
+Session: 44
+Rank:
+1. Deborah Alvarez
+2. Nicole Barker
+3. Angela Murphy
+4. Shane Landry
+5. Amanda Stevens
+6. Jessica Michael
+7. Richard Stevens
+8. Tammy Weaver
+Actualy likely to be Mafia: none
+{'Richard Stevens': 'mafia', 'Jessica Michael': 'mafia', 'Deborah Alvarez': 'town', 'Tammy Weaver': 'town', 'Amanda Stevens': 'town', 'Shane Landry': 'town', 'Nicole Barker': 'town', 'Angela Murphy': 'town'}
+
+
+File: session_44_anonymized.txt
+Session: 44
+Rank:
+1. Player_B
+2. Player_C
+3. Player_Z
+4. Player_A
+5. Player_V
+6. Player_I
+7. Player_M
+8. Player_Y
+
+Actualy likely to be Mafia: Player_B, Player_C
+{'Player_I': 'mafia', 'Player_Y': 'mafia', 'Player_B': 'town', 'Player_C': 'town', 'Player_M': 'town', 'Player_Z': 'town', 'Player_A': 'town', 'Player_V': 'town'}
+
+
+File: session_4_anonymized.txt
+Session: 4
+
+Rank:
+1. Player_P
+2. Player_G
+3. Player_E
+4. Player_N
+5. Player_O
+6. Player_U
+7. Player_K
+8. Player_S
+
+Actualy likely to be Mafia: Player_P, Player_G
+{'Player_O': 'mafia', 'Player_K': 'town', 'Player_U': 'town', 'Player_N': 'town', 'Player_P': 'town', 'Player_E': 'town', 'Player_G': 'mafia', 'Player_S': 'town'}
+
+
+File: session_5.txt
+Session: 5
+Rank:
+Sandra Robinson
+Robert Evans
+Kevin Hodge
+Christian Atkinson
+Terri Brewer
+Timothy Cherry
+Sara Bright
+
+Actualy likely to be Mafia: Kevin Hodge, Robert Evans
+{'Robert Evans': 'town', 'Sandra Robinson': 'town', 'Terri Brewer': 'town', 'Christian Atkinson': 'town', 'Timothy Cherry': 'town', 'Kevin Hodge': 'mafia', 'Sara Bright': 'mafia'}
+
+
+File: session_5_anonymized.txt
+Session: session_5
+Rank:
+Player_S
+Player_O
+Player_R
+Player_X
+Player_U
+Player_V
+Player_H
+
+Actualy likely to be Mafia: none
+{'Player_U': 'town', 'Player_V': 'town', 'Player_H': 'town', 'Player_S': 'town', 'Player_O': 'town', 'Player_X': 'mafia', 'Player_R': 'mafia'}
+
+
+File: session_6.txt
+Session: 6
+Rank:
+1. Kimberly Harrison
+2. Jeffrey Miles
+3. Ricky Mcneil
+4. Mary Reed
+5. Rebecca Patterson
+6. Jesse Martin
+7. Jeremiah Johnson
+8. Christopher Drake
+9. William Rubio
+
+Actualy likely to be Mafia: Jeremiah, Ricky
+{'Jeremiah Johnson': 'town', 'Ricky Mcneil': 'mafia', 'Christopher Drake': 'town', 'Jeffrey Miles': 'town', 'Kimberly Harrison': 'town', 'William Rubio': 'town', 'Jesse Martin': 'mafia', 'Rebecca Patterson': 'town', 'Mary Reed': 'town'}
+
+
+File: session_6_anonymized.txt
+Session: 6
+Rank:
+1. Player_E
+2. Player_G
+3. Player_O
+4. Player_J
+5. Player_D
+6. Player_Y
+7. Player_C
+8. Player_A
+9. Player_I
+{'Player_I': 'town', 'Player_Y': 'mafia', 'Player_J': 'town', 'Player_C': 'town', 'Player_E': 'town', 'Player_G': 'town', 'Player_O': 'mafia', 'Player_D': 'town', 'Player_A': 'town'}
+
+
+File: session_7.txt
+Session: 7
+Rank:
+1. Alyssa Reynolds
+2. Jason Davis
+3. Jean Griffin
+4. Rhonda Morris
+5. Michael Gibson
+6. Gregory Martinez
+7. Cynthia Stokes
+8. John Thompson
+9. Jason Frye 
+
+Actualy likely to be Mafia: Jason Davis
+{'John Thompson': 'mafia', 'Alyssa Reynolds': 'town', 'Jason Frye': 'town', 'Rhonda Morris': 'town', 'Jean Griffin': 'town', 'Michael Gibson': 'town', 'Jason Davis': 'town', 'Gregory Martinez': 'town', 'Cynthia Stokes': 'mafia'}
+
+
+File: session_7_anonymized.txt
+Session: session_7
+Rank:
+Player_D
+Player_R
+Player_S
+Player_J
+Player_B
+Player_A
+Player_T
+Player_N
+Player_O
+Actualy likely to be Mafia: Player_D
+{'Player_O': 'mafia', 'Player_D': 'town', 'Player_B': 'town', 'Player_A': 'town', 'Player_R': 'town', 'Player_S': 'town', 'Player_J': 'town', 'Player_N': 'town', 'Player_T': 'mafia'}
+
+
+File: session_8.txt
+Session: 8
+Rank:
+1. Melissa Vang
+2. Aaron Horton
+3. Justin Scott
+4. Christopher Diaz
+5. Janice Estrada
+6. Danielle Moore
+7. Lucas Richardson
+8. Shane Bell
+{'Justin Scott': 'town', 'Melissa Vang': 'town', 'Aaron Horton': 'town', 'Lucas Richardson': 'town', 'Danielle Moore': 'mafia', 'Janice Estrada': 'mafia', 'Shane Bell': 'town', 'Christopher Diaz': 'town'}
+
+
+File: session_8_anonymized.txt
+Session: 8
+
+Rank:
+1. Player_E
+2. Player_T
+3. Player_L
+4. Player_V
+5. Player_J
+6. Player_R
+7. Player_X
+8. Player_Y
+
+Actualy likely to be Mafia: none
+{'Player_Y': 'town', 'Player_V': 'town', 'Player_E': 'town', 'Player_L': 'town', 'Player_J': 'mafia', 'Player_R': 'mafia', 'Player_X': 'town', 'Player_T': 'town'}
+
+
+File: session_9.txt
+Session: 9
+Rank:
+1. Bianca Nguyen
+2. Mr. Robert Bryant
+3. Carla Morris
+4. Kelsey Wallace
+5. Anna Lopez
+6. Jacob Lowery
+7. Kayla Rivera
+8. Denise Acosta
+
+Actualy likely to be Mafia: Bianca Nguyen, Mr. Robert Bryant
+{'Kelsey Wallace': 'mafia', 'Mr. Robert Bryant': 'town', 'Jacob Lowery': 'town', 'Anna Lopez': 'mafia', 'Zachary Jackson': 'town', 'Kayla Rivera': 'town', 'Denise Acosta': 'town', 'Bianca Nguyen': 'town', 'Carla Morris': 'town'}
+
+
+File: session_9_anonymized.txt
+Session: 9
+Rank:
+1. Player_E
+2. Player_B
+3. Player_K
+4. Player_L
+5. Player_H
+6. Player_F
+7. Player_X
+8. Player_S
+9. Player_T
+{'Player_L': 'mafia', 'Player_E': 'town', 'Player_S': 'town', 'Player_T': 'mafia', 'Player_B': 'town', 'Player_X': 'town', 'Player_H': 'town', 'Player_K': 'town', 'Player_F': 'town'}
+
+

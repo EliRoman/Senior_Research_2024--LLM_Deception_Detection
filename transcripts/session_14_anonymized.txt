@@ -1,0 +1,26 @@
+Phase Change to Daytime: Victim - Karen Smith
+Player_V votes for Player_D!
+Player_V: let's take austin williams out of the game.
+Player_J: So who should we vote out?
+Player_D: I vote Jason
+Player_N: ELIMINATE MATHEW FRANCO
+Player_H: Jason
+Player_A: Who do you think is a mafia member?
+Player_S: I believe Jay Williams
+Player_J votes for Player_V!
+Player_H votes for Player_V!
+Player_D votes for Player_V!
+Player_P: Too many people saying Jason, they are probably mafia
+Player_S votes for Player_A!
+Player_C votes for Player_V!
+Player_P: Go after john or jerry
+Player_A: Wow, looks like Jason isn't having any luck
+Player_V: no joke
+Player_N votes for Player_V!
+Player_S: Don't go after Jerry, he's just an innocent um
+Player_S: Mafioso!
+Player_P votes for Player_S!
+Player_V: i think the timer's a bit long for the night and day sessions. everyone have a good evening!
+Player_A votes for Player_D!
+Phase Change to Nighttime: Victim - Jason Rodriguez
+Players: ['Player_H:town', 'Player_D:town', 'Player_V:town', 'Player_N:town', 'Player_J:town', 'Player_C:mafia', 'Player_S:town', 'Player_A:mafia', 'Player_P:town']

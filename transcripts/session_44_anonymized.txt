@@ -1,0 +1,33 @@
+Phase Change to Daytime: Victim - Tiffany Baker
+Player_V: Hello people!
+Player_M: Hello!
+Player_B: Patrick Gonzales is next
+Player_Z votes for silent_player!
+Player_B votes for silent_player!
+Player_B: I hate him
+Player_I: ok
+Player_Y: hi
+Player_A: Patrick Gonzales
+Player_M: Alright.
+Player_C: Why patrick gonzales?
+Player_B: Dirty Mafia
+Player_V votes for Player_B!
+Player_Z: I just have that feeling about patrick
+Player_Z: get him!
+Player_A votes for silent_player!
+Player_C: Gonzales? Like the kind of thing a mafioso might say
+Player_M votes for silent_player!
+Player_Z: X)
+Player_I votes for silent_player!
+Player_C: I say vote for Deborah
+Player_M: Bye Patrick :(
+Player_Z: rip patrick
+Player_C votes for Player_B!
+Player_A: Deborah should probably be next since she is throwing people under the bus...sounds just like mafia
+Player_B: Nicole is a Russian Spy
+Player_V: I agree
+Player_M: A bit too eager...
+Player_Z: this is gold
+Player_Y votes for Player_B!
+Phase Change to Nighttime: Victim - Patrick Gonzales
+Players: ['Player_I:mafia', 'Player_Y:mafia', 'Player_B:town', 'Player_C:town', 'Player_M:town', 'Player_Z:town', 'Player_A:town', 'Player_V:town']

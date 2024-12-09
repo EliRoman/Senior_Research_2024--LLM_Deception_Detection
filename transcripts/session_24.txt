@@ -1,0 +1,26 @@
+Phase Change to Daytime: Victim - Thomas Mcconnell
+Benjamin Wright: Hello
+Justin Johnson: hello
+Monica Sweeney: Hi everyone
+Danny Owens: hi
+Tyler Howell: Hi
+Felicia Schwartz: hey everybody
+Danny Owens votes for Curtis Lawrence!
+Colin Case: Hello
+Curtis Lawrence: hello
+Curtis Lawrence votes for Danny Owens!
+Colin Case votes for Felicia Schwartz!
+Benjamin Wright votes for Curtis Lawrence!
+Monica Sweeney votes for Curtis Lawrence!
+Felicia Schwartz votes for Curtis Lawrence!
+Curtis Lawrence: well nice knowing you!
+Tyler Howell: lol
+Colin Case: Why vote Curtis? 
+Felicia Schwartz: is he the mafioso?
+Curtis Lawrence: I guarantee you I'm not mafia, but do what you gotta do.
+Benjamin Wright: Felicia is mafioso
+Justin Johnson votes for Curtis Lawrence!
+Colin Case: Benyamin is correct.
+Tyler Howell votes for Felicia Schwartz!
+Phase Change to Nighttime: Victim - Curtis Lawrence
+Players: ['Danny Owens:town', 'Justin Johnson:town', 'Curtis Lawrence:town', 'Monica Sweeney:mafia', 'Tyler Howell:town', 'Colin Case:town', 'Benjamin Wright:town', 'Felicia Schwartz:mafia']

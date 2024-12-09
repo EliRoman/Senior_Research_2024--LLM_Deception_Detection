@@ -1,0 +1,43 @@
+Phase Change to Daytime: Victim - Mark Parker
+Player_V: Oh nooooo
+Player_Z votes for Player_J!
+Player_Z: hahaha
+Player_B: Poor guy
+Player_R: Glad he's gone. He gave me crabs
+Player_Q: feels bad
+Player_V: How can you laugh!? This is serious busines!
+Player_Z: Yeeeet
+Player_V: .... my spelling sucks.
+Player_K: hmm hmm hmmm
+Player_R: Boobs
+Player_Q votes for Player_K!
+Player_B: Yeah, Elizabeth is lacking some compassion here. Seems like a bad guy imo.
+Player_Z: hahaha
+Player_Z: Im a hoarse
+Player_J votes for Player_Z!
+Player_V: So, let's just confess. If you're the mafia, say so!
+Player_R votes for Player_V!
+Player_K: a hoarse horse
+Player_Z: and this a game
+Player_V: Is it?
+Player_Z: I am
+Player_V: Is it, Elizabeth?
+Player_B: I bet elizabeth did it. Just look at that evil laugh. Just sayin.
+Player_V: YOU ARE?!
+Player_Z: kick me out for that moneyy
+Player_V: I'm scared.
+Player_V: !
+Player_B: Pitch fork time! Get Elizabeth!
+Player_Z: me and mariah 
+Player_Z: ;)
+Player_V: I'll vote for you, because you're sinister enough. You're a money hungry, hoarse horse.
+Player_R: Kill me cause i'm sick of this stupid game
+Player_K votes for Player_Z!
+Player_K: there ya go
+Player_C: Jordan Rojas
+Player_Z: get me outt
+Player_V: Oi! 
+Player_Z: I wanna trade
+Player_V: Ryan Richardson!
+Phase Change to Nighttime: Victim - Elizabeth Saunders
+Players: ['Player_R:town', 'Player_Z:mafia', 'Player_Q:town', 'Player_K:town', 'Player_B:mafia', 'Player_J:town', 'Player_C:town', 'Player_V:town']

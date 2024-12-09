@@ -1,0 +1,27 @@
+Phase Change to Daytime
+Phase Change to Daytime
+Player_L: hello
+Player_F: Hi
+Player_J: I don't really understand how we're supposed to know who to vote for, I just chose Bryce Fields at random..
+Player_M: hey
+Player_P: Hello
+Player_D: Hi
+Player_W: hi
+Player_M: nice, the feigning ignorance angle
+Player_F votes for Player_J!
+Player_J: I'm legitimately ignorant but ok
+Player_L votes for Player_J!
+Player_W votes for Player_J!
+Player_L: If you can vote that means you must be in the mafia.
+Player_F: that is not the case.
+Player_P votes for silent_player!
+Player_J: ??
+Player_J votes for Player_M!
+Player_D votes for Player_J!
+Player_F: that's only in the nighttime, Mary.
+Player_J: Looks like this should be a win for the mafia if I'm eliminated
+Player_L: Right, and he said he chose Byrce
+Player_L: You couldn't have chosen Bryce in the last phase as a bystander
+Player_M votes for Player_J!
+Phase Change to Nighttime
+Players: ['Player_M:mafia', 'Player_L:town', 'Player_P:town', 'Player_D:town', 'Player_F:town', 'Player_J:town', 'Player_W:mafia']

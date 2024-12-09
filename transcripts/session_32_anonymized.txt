@@ -1,0 +1,24 @@
+Phase Change to Daytime: Victim - William Washington DDS
+Player_B: Hello
+Player_N: Who is the mob person ?
+Player_F: Hiya
+Player_Z: Hello
+Player_R: Hello all
+Player_B: I'm not sure I'm a bystander named Carolyn Santana
+Player_C: Hey guys.
+Player_B votes for Player_F!
+Player_Z: Bystander CM
+Player_N: bystander here too Terri Green. It is very nice to meet you all
+Player_F votes for Player_B!
+Player_B: haha didn't see that coming....
+Player_F: lol
+Player_B: she's a mobster!
+Player_F: I am not!
+Player_N votes for Player_F!
+Player_R: Lol are we all bystanders?
+Player_Z votes for Player_R!
+Player_F: I'm thinking Carolyn is and is just trying to get me out to save themselves
+Player_B: I honestly have no idea
+Player_R votes for Player_F!
+Phase Change to Nighttime: Victim - Melanie Salas
+Players: ['Player_Z:town', 'Player_C:mafia', 'Player_N:town', 'Player_B:town', 'Player_F:mafia', 'Player_R:town']

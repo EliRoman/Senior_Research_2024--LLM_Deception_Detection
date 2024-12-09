@@ -1,0 +1,48 @@
+Phase Change to Daytime: Victim - Andrew Newton
+Player_T: Hi!
+Player_B: who do you think?
+Player_E: shot in the dark 
+Player_T: No idea yet.
+Player_X: Hello
+Player_B: right.
+Player_F: hello
+Player_L: hey
+Player_H: Hello!
+Player_E: bianca sounds good since shes mia lol
+Player_K: Sucks to be Andrew
+Player_K: what
+Player_B: whoever doesnt respond? lol
+Player_E: jk there she is
+Player_K: no I'm here
+Player_K: zachary
+Player_S: Hello
+Player_H: I think we should eliminate Carla
+Player_K: you're very accusatory
+Player_F: y?
+Player_X votes for Player_B!
+Player_T: Should we wait to eliminate someone?
+Player_E: you're a slow typer, maybe that means youre a mafiosa
+Player_T: It's a little early to tell.
+Player_H: I don't know lol...we are supposed to eliminate somebody
+Player_H: right?
+Player_K: Zachary, your time has come
+Player_L: hmm ok analyzing this conversation....I think bianca was a little to flippant in how she was like "sucks to be andrew" haha
+Player_B: Mr. robert is only MR. lol
+Player_K votes for Player_B!
+Player_F: I'm slow
+Player_L: I'm going to vote bianca. she's so casual with life and death
+Player_E: Kayla hasnt replied in awhile, bye!
+Player_T votes for Player_K!
+Player_L votes for Player_K!
+Player_X: Wow
+Player_K: I do not fear death only life
+Player_H: where is everybody getting this info?
+Player_E: 30 secs
+Player_H: how do we vote?
+Player_T: It's a shot in the dark.
+Player_E votes for Player_B!
+Player_H votes for Player_F!
+Player_F votes for Player_B!
+Player_B votes for Player_E!
+Phase Change to Nighttime: Victim - Zachary Jackson
+Players: ['Player_L:mafia', 'Player_E:town', 'Player_S:town', 'Player_T:mafia', 'Player_B:town', 'Player_X:town', 'Player_H:town', 'Player_K:town', 'Player_F:town']

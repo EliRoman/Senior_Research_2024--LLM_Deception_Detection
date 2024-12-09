@@ -1,0 +1,35 @@
+Phase Change to Daytime
+Phase Change to Daytime
+Gregory Walker: hey all
+Howard Robinson: Hello
+Frank Butler: Hi everyone
+Michael Petersen: Hello
+Tanya Kennedy: hello
+John Thompson: Hi
+Joseph Miller: hi
+Gregory Walker: how are you?
+Tanya Kennedy: im voting gregory walker
+Frank Butler: Doing great, how is everyone?
+Tanya Kennedy votes for Gregory Walker!
+Michael Petersen: I'm voting for you then Tanya
+Gregory Walker: I second Tanya
+Michael Petersen: Gregory is my best friend
+John Thompson votes for Gregory Walker!
+Gregory Walker: lol
+Howard Robinson votes for Tanya Kennedy!
+Michael Petersen votes for Tanya Kennedy!
+Gregory Walker votes for Tanya Kennedy!
+Joseph Miller votes for Tanya Kennedy!
+John Thompson: Snitches get stitches.
+Michael Petersen: Haha
+Gregory Walker: Thanks Michael
+Frank Butler votes for Tanya Kennedy!
+Joseph Miller: nice, the page gets longer as more people type
+Gregory Walker: Thanks to all of you :)
+Anthony Floyd: Hi
+Gregory Walker: Keep scrolling ;]
+Gregory Walker: Hi Anthony
+Michael Petersen: Bye Tanya
+Anthony Floyd: haha
+Phase Change to Nighttime
+Players: ['Frank Butler:town', 'Tanya Kennedy:town', 'John Thompson:mafia', 'Michael Petersen:town', 'Anthony Floyd:town', 'Gregory Walker:town', 'Howard Robinson:town', 'Joseph Miller:town']

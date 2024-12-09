@@ -1,0 +1,15 @@
+Phase Change to Daytime: Victim - Kelly Baker
+Lynn Reynolds: hello
+Pamela Rowe votes for Michael Lucero!
+Lindsay Lamb votes for Lynn Reynolds!
+Lisa Harris votes for Michael Lucero!
+Lindsay Lamb: Hello
+Heather Valentine votes for Michael Lucero!
+Lynn Reynolds votes for Michael Lucero!
+Michael Lucero: hello
+James Shaw: hai
+James Shaw votes for Michael Lucero!
+Michael Lucero votes for Lynn Reynolds!
+Lynn Reynolds: kick Michael Lucero out
+Phase Change to Nighttime: Victim - Michael Lucero
+Players: ['Lynn Reynolds:town', 'Pamela Rowe:town', 'James Shaw:town', 'Lindsay Lamb:town', 'Lisa Harris:mafia', 'Michael Lucero:town', 'Heather Valentine:town']

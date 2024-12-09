@@ -1,0 +1,31 @@
+Phase Change to Daytime: Victim - Mary Blake
+Player_C votes for Player_G!
+Player_I: Hi
+Player_E: Hello
+Player_J: Hi everyone! 
+Player_A: hello
+Player_O: hello
+Player_E: Hi! 
+Player_A votes for Player_G!
+Player_D: hey!
+Player_O: How is everyone?
+Player_G votes for Player_Y!
+Player_Y: Shall we vote out Mary Reed
+Player_J: Fine thanks. Who should we eliminate?
+Player_E: Great! So, who do we vote for?
+Player_Y votes for Player_G!
+Player_I: depends on who you are
+Player_J votes for Player_G!
+Player_E: LOL touche
+Player_O: Mary
+Player_O votes for Player_A!
+Player_D votes for Player_G!
+Player_A: William Rubio
+Player_E: Looks like William isn't doing so hot
+Player_E votes for Player_G!
+Player_J: Yeah, I think William seems to be the popular choice.
+Player_E: I don't see him on here conversing 
+Player_E: hmmm
+Player_I votes for Player_D!
+Phase Change to Nighttime: Victim - William Rubio
+Players: ['Player_I:town', 'Player_Y:mafia', 'Player_J:town', 'Player_C:town', 'Player_E:town', 'Player_G:town', 'Player_O:mafia', 'Player_D:town', 'Player_A:town']

@@ -1,0 +1,40 @@
+Phase Change to Daytime
+Player_E: Hello
+Player_L: Hello Everyone
+Player_X: Hio
+Player_G: Hi
+Player_K: Hey
+Player_V: any ideas on who to elimate?
+Player_Q: hi
+Player_T: hello
+Player_D votes for Player_T!
+Player_L votes for Player_K!
+Player_G votes for Player_T!
+Player_E: not sure tbh
+Player_V: hello
+Player_D: Hi 
+Player_J votes for Player_T!
+Player_T: no idea
+Player_X: no clue
+Player_J: well i guess we're killing this guy
+Player_Q votes for Player_X!
+Player_E votes for Player_T!
+Player_X votes for Player_D!
+Player_E: seem OK
+Player_T: hey
+Player_V votes for Player_T!
+Player_L: Sorry Erin 
+Player_J: do the votes have to be unanimous or just 'most votes wins'
+Player_V: do not know
+Player_X: its random if there arent enough votes
+Player_L: Most votes, if tie then its random between the two
+Player_K votes for Player_T!
+Player_T: well nice idea
+Player_V: ty christopher
+Player_D: Erin tried to break my legs
+Player_V: ha
+Player_T: trying to hill you 
+Player_V: That was not very nice of Erin
+Player_L: Welp see you guys in the morning
+Phase Change to Nighttime: Victim - Erin Jackson DVM
+Players: ['Player_J:town', 'Player_V:town', 'Player_G:town', 'Player_X:town', 'Player_D:mafia', 'Player_T:town', 'Player_L:mafia', 'Player_Q:town', 'Player_E:town', 'Player_K:town']

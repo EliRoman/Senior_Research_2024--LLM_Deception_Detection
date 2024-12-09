@@ -1,0 +1,29 @@
+Phase Change to Daytime: Victim - Ashley Lowe
+Player_D votes for Player_U!
+Player_E: Hello
+Player_J: How do you know that
+Player_N: hey
+Player_U: hello
+Player_B: Stacy Dillon is a snitch.
+Player_D: aye yinz
+Player_N votes for Player_D!
+Player_P: okay, who here is mafia?
+Player_Q: Hello
+Player_U: So that mean Stacy needs to go
+Player_E: Hai
+Player_J votes for Player_P!
+Player_P votes for Player_B!
+Player_E: No
+Player_U votes for Player_P!
+Player_P: you just know i'm not mafia so I'm being targeted
+Player_Q votes for Player_B!
+Player_E: The mafia is center of person
+Player_E: the single person
+Player_B votes for Player_P!
+Player_E: hello
+Player_E: are you there
+Player_P: we just lost didn't we?
+Player_R votes for Player_D!
+Player_P: nice
+Phase Change to Nighttime: Victim - Stacy Dillon
+Players: ['Player_E:town', 'Player_R:town', 'Player_N:town', 'Player_J:mafia', 'Player_U:town', 'Player_Q:town', 'Player_P:town', 'Player_B:mafia', 'Player_D:town']

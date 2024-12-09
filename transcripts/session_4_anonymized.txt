@@ -1,0 +1,33 @@
+Phase Change to Daytime
+Player_S votes for Player_E!
+Player_P: hello
+Player_U: hey
+Player_P votes for Player_N!
+Player_S: Hi there
+Player_K: Hello
+Player_N votes for Player_P!
+Player_G: Hi!
+Player_E: So, how's all you'se doin'.
+Player_N: hello
+Player_O: hi yall
+Player_U: whodunnit
+Player_P: going to eliminate you..ah aha
+Player_G: Is that English?
+Player_K: Amanda Pearson was pretty quick to cast her vote, seems suspicious to me
+Player_U: colonel mustard in the library with the candlestick
+Player_S: That sounds suspicious...
+Player_O votes for Player_P!
+Player_K votes for Player_S!
+Player_U: wrong game
+Player_P: oh really
+Player_P: just chat
+Player_G votes for Player_P!
+Player_O: who's the mouthiest???
+Player_E: You'se better not be think'in of pushin' a button on Robin Lefty Rodriguez!
+Player_P: who do you all want eliminate?
+Player_S: It seems like Robin Rodriguez is trying to intimidate us!
+Player_U: eyy fuggeddaboutit
+Player_U votes for Player_K!
+Player_E: Hey I'm just playin' wit' you'se.
+Phase Change to Nighttime
+Players: ['Player_O:mafia', 'Player_K:town', 'Player_U:town', 'Player_N:town', 'Player_P:town', 'Player_E:town', 'Player_G:mafia', 'Player_S:town']

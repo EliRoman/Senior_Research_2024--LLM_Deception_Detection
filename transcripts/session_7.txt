@@ -1,0 +1,24 @@
+Phase Change to Daytime
+Phase Change to Daytime
+John Thompson: Ok I too will vote that
+Jean Griffin: Hello
+Gregory Martinez: hello
+Jean Griffin: who do we eliminate ?
+Cynthia Stokes: Hi
+Jason Davis: Hi!
+Alyssa Reynolds: John was trying to talk at night so he is mafia
+Michael Gibson: Hi 
+Jason Davis: lol
+Jason Davis: I vote for JOhn
+Gregory Martinez votes for John Thompson!
+Jason Davis votes for John Thompson!
+Rhonda Morris votes for John Thompson!
+Alyssa Reynolds votes for John Thompson!
+Michael Gibson votes for John Thompson!
+Jean Griffin: voting for john then
+Jason Frye votes for John Thompson!
+Jean Griffin votes for John Thompson!
+Cynthia Stokes votes for John Thompson!
+John Thompson votes for Cynthia Stokes!
+Phase Change to Nighttime
+Players: ['John Thompson:mafia', 'Alyssa Reynolds:town', 'Jason Frye:town', 'Rhonda Morris:town', 'Jean Griffin:town', 'Michael Gibson:town', 'Jason Davis:town', 'Gregory Martinez:town', 'Cynthia Stokes:mafia']

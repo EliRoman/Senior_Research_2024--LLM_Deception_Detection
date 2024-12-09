@@ -1,0 +1,20 @@
+Phase Change to Daytime: Victim - Barry Dunn
+Player_Y votes for Player_E!
+Player_J votes for Player_E!
+Player_Y: Let's knock one out
+Player_R votes for Player_E!
+Player_T: Kill Christopher Diaz b/c I gtg
+Player_E: Vote for Melissa Vang
+Player_L votes for Player_E!
+Player_Y: Lol we'll get you next
+Player_V: vote for aaron horton
+Player_R: ha ha christopher should have said that earlier
+Player_E votes for Player_T!
+Player_V votes for Player_T!
+Player_E: Vang is mafia, eliminate her
+Player_T votes for Player_V!
+Player_Y: I swear this timer moves slower than normal
+Player_X: vote out shane
+Player_E: Why yall want to eliminate me?
+Phase Change to Nighttime: Victim - Aaron Horton
+Players: ['Player_Y:town', 'Player_V:town', 'Player_E:town', 'Player_L:town', 'Player_J:mafia', 'Player_R:mafia', 'Player_X:town', 'Player_T:town']

@@ -105,7 +105,7 @@ def process_transmissions(dataset_folder, transcripts_folder):
                             try:
                                 player_voting, player_voted = row['contents'].split(': ')
                                 formatted_content = f"{player_voting} votes for {player_voted}!"
-                                anonymized_content = f"{aliases.get(player_voting, "silent_player")} votes for {aliases.get(player_voted, "silent_player")}!"
+                                anonymized_content = f"{aliases.get(player_voting, 'silent_player')} votes for {aliases.get(player_voted, 'silent_player')}!"
                             except ValueError:
                                 formatted_content = anonymized_content = row['contents']
                         

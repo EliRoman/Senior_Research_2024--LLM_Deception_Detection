@@ -1,0 +1,28 @@
+Phase Change to Daytime: Victim - Dillon Goodwin
+Player_B votes for Player_E!
+Player_A votes for Player_X!
+Player_M: what about now?
+Player_X: I'm a bystander...and a girl, I guess.
+Player_I votes for Player_A!
+Player_E: I'm a bystander too.  Girl named Rodney  lol
+Player_M: I am also a bystander
+Player_K: Same
+Player_I: I'm a bystander too... NOT MAFIA.. not a bot.
+Player_B: me too
+Player_B: says the bot
+Player_K: Sharon didn't answer
+Player_E votes for Player_H!
+Player_H: im a bystander
+Player_I: Just don't captcha me dude.
+Player_K votes for Player_H!
+Player_A: yes
+Player_A: hxcbv
+Player_H votes for Player_E!
+Player_A: xjfhuishf
+Player_M votes for Player_X!
+Player_I: Who is the mafia?
+Player_M: Not sure
+Player_X votes for Player_H!
+Player_K: Someone's a fibber
+Phase Change to Nighttime: Victim - Sharon Parker
+Players: ['Player_M:mafia', 'Player_I:town', 'Player_B:town', 'Player_E:town', 'Player_A:town', 'Player_K:mafia', 'Player_X:town', 'Player_H:town']

@@ -1,0 +1,26 @@
+Phase Change to Daytime
+Laura Baldwin: Hi!
+Daniel Mayer: Hello
+Tyrone Mckee: Hello
+Alexander Ford: hi
+Timothy Moore: What's up everyone
+Jennifer Bond: Hello!
+Benjamin Neal: Hello
+Laura Baldwin: How is everyone?
+David Martinez: Hey
+Daniel Mayer: Nothing much here.. got a good nights rest
+Jacob Pearson: hi
+Daniel Mayer votes for Alexander Ford!
+Benjamin Neal votes for Daniel Mayer!
+Laura Baldwin votes for Alexander Ford!
+Jacob Pearson: tyrone
+Tyrone Mckee votes for Timothy Moore!
+Jennifer Bond votes for Daniel Mayer!
+Jacob Pearson votes for Tyrone Mckee!
+Laura Baldwin: Ditto David. Feels good!
+Alexander Ford votes for Daniel Mayer!
+David Martinez votes for Daniel Mayer!
+Timothy Moore votes for Tyrone Mckee!
+Daniel Mayer: Nope not me
+Phase Change to Nighttime: Victim - Daniel Mayer
+Players: ['Laura Baldwin:town', 'Alexander Ford:town', 'Jacob Pearson:town', 'Benjamin Neal:town', 'Jennifer Bond:town', 'David Martinez:town', 'Tyrone Mckee:town', 'Timothy Moore:mafia', 'Daniel Mayer:mafia']

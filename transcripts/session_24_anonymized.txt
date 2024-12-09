@@ -1,0 +1,26 @@
+Phase Change to Daytime: Victim - Thomas Mcconnell
+Player_F: Hello
+Player_M: hello
+Player_V: Hi everyone
+Player_K: hi
+Player_Y: Hi
+Player_R: hey everybody
+Player_K votes for Player_L!
+Player_D: Hello
+Player_L: hello
+Player_L votes for Player_K!
+Player_D votes for Player_R!
+Player_F votes for Player_L!
+Player_V votes for Player_L!
+Player_R votes for Player_L!
+Player_L: well nice knowing you!
+Player_Y: lol
+Player_D: Why vote Curtis? 
+Player_R: is he the mafioso?
+Player_L: I guarantee you I'm not mafia, but do what you gotta do.
+Player_F: Felicia is mafioso
+Player_M votes for Player_L!
+Player_D: Benyamin is correct.
+Player_Y votes for Player_R!
+Phase Change to Nighttime: Victim - Curtis Lawrence
+Players: ['Player_K:town', 'Player_M:town', 'Player_L:town', 'Player_V:mafia', 'Player_Y:town', 'Player_D:town', 'Player_F:town', 'Player_R:mafia']

@@ -1,0 +1,40 @@
+Phase Change to Daytime
+Cristian Roberts: Hello
+Christopher Turner: Hello Everyone
+Michael Anderson: Hio
+Jonathan Kim: Hi
+Erin Cabrera: Hey
+William Stanley: any ideas on who to elimate?
+Brandon Cruz: hi
+Erin Jackson DVM: hello
+Stephanie Gonzalez votes for Erin Jackson DVM!
+Christopher Turner votes for Erin Cabrera!
+Jonathan Kim votes for Erin Jackson DVM!
+Cristian Roberts: not sure tbh
+William Stanley: hello
+Stephanie Gonzalez: Hi 
+Henry Brown votes for Erin Jackson DVM!
+Erin Jackson DVM: no idea
+Michael Anderson: no clue
+Henry Brown: well i guess we're killing this guy
+Brandon Cruz votes for Michael Anderson!
+Cristian Roberts votes for Erin Jackson DVM!
+Michael Anderson votes for Stephanie Gonzalez!
+Cristian Roberts: seem OK
+Erin Jackson DVM: hey
+William Stanley votes for Erin Jackson DVM!
+Christopher Turner: Sorry Erin 
+Henry Brown: do the votes have to be unanimous or just 'most votes wins'
+William Stanley: do not know
+Michael Anderson: its random if there arent enough votes
+Christopher Turner: Most votes, if tie then its random between the two
+Erin Cabrera votes for Erin Jackson DVM!
+Erin Jackson DVM: well nice idea
+William Stanley: ty christopher
+Stephanie Gonzalez: Erin tried to break my legs
+William Stanley: ha
+Erin Jackson DVM: trying to hill you 
+William Stanley: That was not very nice of Erin
+Christopher Turner: Welp see you guys in the morning
+Phase Change to Nighttime: Victim - Erin Jackson DVM
+Players: ['Henry Brown:town', 'William Stanley:town', 'Jonathan Kim:town', 'Michael Anderson:town', 'Stephanie Gonzalez:mafia', 'Erin Jackson DVM:town', 'Christopher Turner:mafia', 'Brandon Cruz:town', 'Cristian Roberts:town', 'Erin Cabrera:town']

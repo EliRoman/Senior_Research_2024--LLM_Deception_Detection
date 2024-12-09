@@ -1,0 +1,45 @@
+Phase Change to Daytime: Victim - Raymond Campbell
+Player_W: Hello.
+Player_U: hey group 
+Player_G: hello
+Player_P: Hi!
+Player_B: hi
+Player_S: Hi all
+Player_I: hi
+Player_G: who should we get rid of?
+Player_W: How is everyone today?
+Player_I: who to eliminate?
+Player_W: Julian
+Player_W votes for Player_P!
+Player_G: Michael sounds suspicious
+Player_U: julian works for me
+Player_S: How to chose??
+Player_W: Sounds like a mobish name
+Player_I: well, is anybody not talking?
+Player_B: Good question
+Player_P: I'm here
+Player_U: haha that's how we're choosing
+Player_G: Yeah I don't trust the guy
+Player_I: who talked the least?
+Player_U: idk though
+Player_W: Julian will whack us.
+Player_U: you guys are kind of pushing julian
+Player_I: i'd go with Michael Nelson, he has too many names.
+Player_U: probably know hes not mafia
+Player_U: how else could you know who to pick
+Player_I: I don't even want to type them all.
+Player_P: I agree.
+Player_I: 'Jr.'
+Player_S: No one seems to like Julian! lol
+Player_W: Whoa! I can't help what my name is
+Player_U: of course you do julian hahah
+Player_G: Yeah, never trust someone with ttwo first names.
+Player_I: sounds mobbed up
+Player_B: I agree
+Player_I votes for Player_W!
+Player_W: Let's Lynch Nathan 
+Player_P votes for Player_W!
+Player_B votes for Player_I!
+Player_S votes for Player_W!
+Phase Change to Nighttime: Victim - Mr. Michael Nelson Jr.
+Players: ['Player_W:mafia', 'Player_B:town', 'Player_U:town', 'Player_P:mafia', 'Player_G:town', 'Player_I:town', 'Player_S:town']

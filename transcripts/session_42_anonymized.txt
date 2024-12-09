@@ -1,0 +1,35 @@
+Phase Change to Daytime: Victim - Alexander Lopez
+Player_L: hi
+Player_B votes for Player_E!
+Player_E: hi
+Player_T: hello
+Player_B: hello
+Player_A: hi
+Player_Z: ello
+Player_E votes for Player_Z!
+Player_B: i know who is mafia
+Player_J votes for Player_Z!
+Player_L: I am the mafia
+Player_E: Im mafia
+Player_B: i am too
+Player_T votes for Player_E!
+Player_E: lol
+Player_L votes for Player_E!
+Player_D: Im too nice to be mafia
+Player_B: lol or im a bystander with a gun
+Player_Z votes for Player_D!
+Player_B: hmm..
+Player_E: Im both
+Player_A votes for Player_E!
+Player_B: jason smith mafia confirmed
+Player_E: Ricardo is too quiet
+Player_T: One name is as good as another at this point, I guess
+Player_L: Ricardo def mafia
+Player_Z: i mean i'm just processing everyone admitting to being mafia even though they can't all be lol
+Player_E: sure
+Player_D votes for Player_Z!
+Player_T: That would be a short game, lol
+Player_E: lol everyone had the same idea 
+Player_L: that's what someone in the mafia would say
+Phase Change to Nighttime: Victim - James Perez
+Players: ['Player_D:mafia', 'Player_A:town', 'Player_Z:town', 'Player_J:town', 'Player_L:town', 'Player_T:mafia', 'Player_E:town', 'Player_B:town']

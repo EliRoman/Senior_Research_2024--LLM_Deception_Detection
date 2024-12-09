@@ -1,0 +1,41 @@
+Phase Change to Daytime: Victim - Alexander Dillon
+Player_F: Hello all
+Player_O: james smith
+Player_P: Hello
+Player_F: alrighty
+Player_Y: hello
+Player_O: hi
+Player_H: I don't trust James
+Player_N: Hey
+Player_K: hello 
+Player_M: Yo
+Player_P: Ok
+Player_N: not James Smith
+Player_F: Why?
+Player_H: Then who besides James?
+Player_P: No really, not
+Player_K votes for Player_H!
+Player_N: Cathy
+Player_O: ryan ray needs to be gone
+Player_M votes for Player_H!
+Player_N votes for Player_O!
+Player_M: Get ryan outta here
+Player_F: 80secs left
+Player_P: Not sure who to choose
+Player_H: I'm voting for Cathy 
+Player_M: Ryan talkin too much
+Player_H: I have no rationale just speeding things up 
+Player_N: Cathy is Mafia I think
+Player_Y: agree how are we supposed to play this game over a chat box haha
+Player_O: Lets eliminate Ryan
+Player_K: whats the prize if we win?
+Player_H: Don't you turn this on me
+Player_F votes for Player_P!
+Player_H votes for Player_O!
+Player_P: Don't think there is a prize
+Player_Y: if you are mafia just respond to this 
+Player_O votes for Player_H!
+Player_P votes for Player_O!
+Player_K: vote me out then lol
+Phase Change to Nighttime: Victim - Ryan Ray
+Players: ['Player_Y:town', 'Player_P:town', 'Player_H:town', 'Player_M:mafia', 'Player_O:town', 'Player_F:town', 'Player_N:town', 'Player_K:town']

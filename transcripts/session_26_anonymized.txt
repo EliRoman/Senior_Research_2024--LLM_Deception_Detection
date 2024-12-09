@@ -1,0 +1,12 @@
+Phase Change to Daytime
+Player_K: Morning at last.
+Player_Z: Hi again
+Player_Z votes for Player_K!
+Player_K votes for Player_Z!
+Player_S: Hello
+Player_J: Hi
+Player_J votes for Player_Z!
+Player_Z: Who's next...
+Player_S votes for Player_Z!
+Phase Change to Nighttime
+Players: ['Player_K:town', 'Player_Z:mafia', 'Player_J:town', 'Player_S:town']

@@ -1,0 +1,15 @@
+Phase Change to Daytime: Victim - Kelly Baker
+Player_S: hello
+Player_J votes for Player_B!
+Player_Q votes for Player_S!
+Player_M votes for Player_B!
+Player_Q: Hello
+Player_R votes for Player_B!
+Player_S votes for Player_B!
+Player_B: hello
+Player_U: hai
+Player_U votes for Player_B!
+Player_B votes for Player_S!
+Player_S: kick Michael Lucero out
+Phase Change to Nighttime: Victim - Michael Lucero
+Players: ['Player_S:town', 'Player_J:town', 'Player_U:town', 'Player_Q:town', 'Player_M:mafia', 'Player_B:town', 'Player_R:town']

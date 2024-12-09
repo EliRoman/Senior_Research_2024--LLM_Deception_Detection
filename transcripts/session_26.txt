@@ -1,0 +1,12 @@
+Phase Change to Daytime
+Sarah Williams: Morning at last.
+Jennifer Diaz: Hi again
+Jennifer Diaz votes for Sarah Williams!
+Sarah Williams votes for Jennifer Diaz!
+Theresa Torres: Hello
+Joshua Hebert Jr.: Hi
+Joshua Hebert Jr. votes for Jennifer Diaz!
+Jennifer Diaz: Who's next...
+Theresa Torres votes for Jennifer Diaz!
+Phase Change to Nighttime
+Players: ['Sarah Williams:town', 'Jennifer Diaz:mafia', 'Joshua Hebert Jr.:town', 'Theresa Torres:town']

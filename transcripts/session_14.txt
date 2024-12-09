@@ -1,0 +1,26 @@
+Phase Change to Daytime: Victim - Karen Smith
+Jason Rodriguez votes for Austin Williams!
+Jason Rodriguez: let's take austin williams out of the game.
+Kelly Mclaughlin: So who should we vote out?
+Austin Williams: I vote Jason
+John Bridges: ELIMINATE MATHEW FRANCO
+Michael Sharp: Jason
+Jay Williams: Who do you think is a mafia member?
+Jerry Pearson: I believe Jay Williams
+Kelly Mclaughlin votes for Jason Rodriguez!
+Michael Sharp votes for Jason Rodriguez!
+Austin Williams votes for Jason Rodriguez!
+Matthew Franco: Too many people saying Jason, they are probably mafia
+Jerry Pearson votes for Jay Williams!
+Abigail Perez votes for Jason Rodriguez!
+Matthew Franco: Go after john or jerry
+Jay Williams: Wow, looks like Jason isn't having any luck
+Jason Rodriguez: no joke
+John Bridges votes for Jason Rodriguez!
+Jerry Pearson: Don't go after Jerry, he's just an innocent um
+Jerry Pearson: Mafioso!
+Matthew Franco votes for Jerry Pearson!
+Jason Rodriguez: i think the timer's a bit long for the night and day sessions. everyone have a good evening!
+Jay Williams votes for Austin Williams!
+Phase Change to Nighttime: Victim - Jason Rodriguez
+Players: ['Michael Sharp:town', 'Austin Williams:town', 'Jason Rodriguez:town', 'John Bridges:town', 'Kelly Mclaughlin:town', 'Abigail Perez:mafia', 'Jerry Pearson:town', 'Jay Williams:mafia', 'Matthew Franco:town']

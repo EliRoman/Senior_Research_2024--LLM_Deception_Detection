@@ -1,0 +1,24 @@
+Phase Change to Daytime: Victim - Henry Bowers
+Player_B: me too!
+Player_A votes for Player_W!
+Player_Y: louis are you a bystander?
+Player_B: No i'm a voter
+Player_S votes for Player_W!
+Player_W: who do you think the mafia is
+Player_M: justin rivas jr?
+Player_H votes for Player_W!
+Player_M votes for Player_W!
+Player_W: I am a bystander
+Player_Q: Kevin Pearson
+Player_W: that is you right?
+Player_B: lol
+Player_Y: abigail perez is mafia
+Player_B: i agree
+Player_W: so do we want to vote off someone
+Player_S: Yes
+Player_Q votes for Player_W!
+Player_B votes for Player_A!
+Player_Y votes for Player_A!
+Player_W votes for Player_A!
+Phase Change to Nighttime: Victim - Justin Rivas Jr.
+Players: ['Player_Q:town', 'Player_Y:town', 'Player_H:mafia', 'Player_M:town', 'Player_A:town', 'Player_W:town', 'Player_B:mafia', 'Player_S:town']

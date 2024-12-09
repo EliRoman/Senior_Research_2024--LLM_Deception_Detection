@@ -1,0 +1,33 @@
+Phase Change to Daytime
+Player_S votes for Player_T!
+Player_P: Hi
+Player_O: hi
+Player_K: Hello
+Player_H: hello
+Player_T: hey
+Player_Q: Hello
+Player_E: hi
+Player_P: Who should we eliminate?
+Player_H: who didn't respond?
+Player_S: Who was dropped during the night?
+Player_E: all respoded
+Player_P: I don't see Kendra Craig responding
+Player_H: looks like Kendra is it then
+Player_G votes for Player_H!
+Player_S votes for Player_E!
+Player_P votes for Player_M!
+Player_O: sounds good
+Player_K votes for Player_M!
+Player_Q votes for Player_M!
+Player_H votes for Player_M!
+Player_E: kendra then
+Player_P: Sorry Kendra...
+Player_O votes for Player_M!
+Player_T: sounds good
+Player_E votes for Player_M!
+Player_S: Why Kendra?
+Player_H: no response
+Player_M votes for Player_S!
+Player_T: she hasn't responded
+Phase Change to Nighttime: Victim - Kendra Craig
+Players: ['Player_K:town', 'Player_O:town', 'Player_M:town', 'Player_T:town', 'Player_S:mafia', 'Player_Q:town', 'Player_H:town', 'Player_P:town', 'Player_E:town', 'Player_G:mafia']

@@ -1,0 +1,32 @@
+Phase Change to Daytime: Victim - Clinton Sims
+Player_D: all good
+Player_B votes for Player_G!
+Player_B: HI
+Player_U: hello everyone
+Player_R: Hi all
+Player_C: Hello
+Player_B: HELLO
+Player_X: Hello.
+Player_Q: Hi.
+Player_G: hello
+Player_X: No idea who to eliminate.
+Player_M: Hi
+Player_R votes for Player_G!
+Player_U: same 
+Player_D votes for Player_B!
+Player_U: trying to think what we can go off
+Player_C votes for Player_G!
+Player_X: Anyone have suggestions?
+Player_B: HII
+Player_U: anyone have anything to offer. i dont even know what would be suspicious
+Player_B: NO
+Player_R: No
+Player_U: who is mafia? 
+Player_U: too easy well i dont want to just blindly kill so idk
+Player_X: It shows what people are voting for.
+Player_X: Maybe the people who are all voting the same the first day are mafia?
+Player_G votes for Player_B!
+Player_Q votes for Player_B!
+Player_M votes for Player_D!
+Phase Change to Nighttime: Victim - James Martin
+Players: ['Player_G:mafia', 'Player_R:town', 'Player_Q:town', 'Player_U:town', 'Player_B:town', 'Player_C:town', 'Player_D:mafia', 'Player_X:town', 'Player_M:town']

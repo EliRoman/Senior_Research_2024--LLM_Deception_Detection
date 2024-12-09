@@ -1,0 +1,24 @@
+Phase Change to Daytime: Victim - William Washington DDS
+Carolyn Santana: Hello
+Terri Green: Who is the mob person ?
+Melanie Salas: Hiya
+Caroline Moss: Hello
+Richard Adams MD: Hello all
+Carolyn Santana: I'm not sure I'm a bystander named Carolyn Santana
+Bryan Brown: Hey guys.
+Carolyn Santana votes for Melanie Salas!
+Caroline Moss: Bystander CM
+Terri Green: bystander here too Terri Green. It is very nice to meet you all
+Melanie Salas votes for Carolyn Santana!
+Carolyn Santana: haha didn't see that coming....
+Melanie Salas: lol
+Carolyn Santana: she's a mobster!
+Melanie Salas: I am not!
+Terri Green votes for Melanie Salas!
+Richard Adams MD: Lol are we all bystanders?
+Caroline Moss votes for Richard Adams MD!
+Melanie Salas: I'm thinking Carolyn is and is just trying to get me out to save themselves
+Carolyn Santana: I honestly have no idea
+Richard Adams MD votes for Melanie Salas!
+Phase Change to Nighttime: Victim - Melanie Salas
+Players: ['Caroline Moss:town', 'Bryan Brown:mafia', 'Terri Green:town', 'Carolyn Santana:town', 'Melanie Salas:mafia', 'Richard Adams MD:town']

@@ -1,0 +1,51 @@
+Phase Change to Daytime
+Player_T votes for Player_I!
+Player_J: lets get rid of justin lee
+Player_W: ok
+Player_W votes for silent_player!
+Player_N votes for silent_player!
+Player_O votes for silent_player!
+Player_E: hi
+Player_G votes for silent_player!
+Player_E votes for Player_J!
+Player_T: Why?
+Player_I: poor guy
+Player_W: what kindof person is named justin anyway
+Player_H votes for silent_player!
+Player_J: hope he is mafia
+Player_J: can we tell?
+Player_N: no way to tell
+Player_W: nope only the mafia
+Player_J: sigh
+Player_P: hello
+Player_I: justin doesn't sound mafia. but it could be a trap.
+Player_P votes for Player_H!
+Player_J: guerra sounds mafia
+Player_J: maybe
+Player_I votes for silent_player!
+Player_T: welp votes aren't changeable 
+Player_W: whoa this is 2019 you cant say that
+Player_J: not pc, sorry
+Player_W: lol idc
+Player_N: Justin is a nice name!
+Player_T: Sam if justin isn't mafia I'm assuming you are
+Player_J: long day
+Player_W: oooo good point
+Player_J: lol
+Player_E: hello
+Player_T: because you tried to get people to vote right away
+Player_J: hi lisa
+Player_G: hi
+Player_P: vote for kevin
+Player_I: why did the timer start over?
+Player_J: sorry michelle
+Player_W: do you have anything to say for yourself justin
+Player_N: only a small amount of time left!
+Player_J: glitch?
+Player_T: 40 seconds for me
+Player_J: justin aint talking
+Player_J: 16
+Player_N: hmmmmm
+Player_E: hi
+Phase Change to Nighttime: Victim - Justin Lee
+Players: ['Player_T:mafia', 'Player_H:town', 'Player_G:town', 'Player_P:town', 'Player_J:town', 'Player_W:town', 'Player_I:town', 'Player_E:town', 'Player_N:mafia', 'Player_O:town']

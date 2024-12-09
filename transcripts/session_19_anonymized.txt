@@ -1,0 +1,35 @@
+Phase Change to Daytime
+Phase Change to Daytime
+Player_X: hey all
+Player_A: Hello
+Player_P: Hi everyone
+Player_U: Hello
+Player_Y: hello
+Player_E: Hi
+Player_H: hi
+Player_X: how are you?
+Player_Y: im voting gregory walker
+Player_P: Doing great, how is everyone?
+Player_Y votes for Player_X!
+Player_U: I'm voting for you then Tanya
+Player_X: I second Tanya
+Player_U: Gregory is my best friend
+Player_E votes for Player_X!
+Player_X: lol
+Player_A votes for Player_Y!
+Player_U votes for Player_Y!
+Player_X votes for Player_Y!
+Player_H votes for Player_Y!
+Player_E: Snitches get stitches.
+Player_U: Haha
+Player_X: Thanks Michael
+Player_P votes for Player_Y!
+Player_H: nice, the page gets longer as more people type
+Player_X: Thanks to all of you :)
+Player_D: Hi
+Player_X: Keep scrolling ;]
+Player_X: Hi Anthony
+Player_U: Bye Tanya
+Player_D: haha
+Phase Change to Nighttime
+Players: ['Player_P:town', 'Player_Y:town', 'Player_E:mafia', 'Player_U:town', 'Player_D:town', 'Player_X:town', 'Player_A:town', 'Player_H:town']

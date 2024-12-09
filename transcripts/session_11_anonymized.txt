@@ -1,0 +1,21 @@
+Phase Change to Daytime: Victim - Anthony Armstrong
+Player_N: Hello
+Player_P: Hi
+Player_N: Eliminate the first in list?
+Player_K: Good morning!
+Player_N votes for silent_player!
+Player_P: I was thinking 2nd. 
+Player_P votes for silent_player!
+Player_P: Morning!
+Player_E votes for silent_player!
+Player_N: Lets just take it from the top
+Player_F: Why not
+Player_P: Sounds good.
+Player_F: I believe we all have differently ordered lists
+Player_K: Def different orders
+Player_P: Yeah, we do. 
+Player_N: Ok I will be more explicit 
+Player_N: Sorry :D
+Player_N: See you tomorrow morning :X
+Phase Change to Nighttime: Victim - Alexander Rhodes
+Players: ['Player_F:mafia', 'Player_P:town', 'Player_K:town', 'Player_E:town', 'Player_N:mafia']

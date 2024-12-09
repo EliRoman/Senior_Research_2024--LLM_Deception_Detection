@@ -1,0 +1,24 @@
+Phase Change to Daytime: Victim - Henry Bowers
+Louis Webb: me too!
+Abigail Perez votes for Justin Rivas Jr.!
+Trevor Brown: louis are you a bystander?
+Louis Webb: No i'm a voter
+Jordan Vincent votes for Justin Rivas Jr.!
+Justin Rivas Jr.: who do you think the mafia is
+Christina Figueroa: justin rivas jr?
+Christine Peterson votes for Justin Rivas Jr.!
+Christina Figueroa votes for Justin Rivas Jr.!
+Justin Rivas Jr.: I am a bystander
+Kevin Pearson: Kevin Pearson
+Justin Rivas Jr.: that is you right?
+Louis Webb: lol
+Trevor Brown: abigail perez is mafia
+Louis Webb: i agree
+Justin Rivas Jr.: so do we want to vote off someone
+Jordan Vincent: Yes
+Kevin Pearson votes for Justin Rivas Jr.!
+Louis Webb votes for Abigail Perez!
+Trevor Brown votes for Abigail Perez!
+Justin Rivas Jr. votes for Abigail Perez!
+Phase Change to Nighttime: Victim - Justin Rivas Jr.
+Players: ['Kevin Pearson:town', 'Trevor Brown:town', 'Christine Peterson:mafia', 'Christina Figueroa:town', 'Abigail Perez:town', 'Justin Rivas Jr.:town', 'Louis Webb:mafia', 'Jordan Vincent:town']

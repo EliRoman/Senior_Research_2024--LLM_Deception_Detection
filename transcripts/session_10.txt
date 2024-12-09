@@ -1,0 +1,29 @@
+Phase Change to Daytime: Victim - Ashley Lowe
+Aaron Morse votes for Adam Ward!
+Kyle Mack: Hello
+Natasha Cooke: How do you know that
+Mary Arnold: hey
+Adam Ward: hello
+Michael Williams: Stacy Dillon is a snitch.
+Aaron Morse: aye yinz
+Mary Arnold votes for Aaron Morse!
+Stacy Dillon: okay, who here is mafia?
+Alicia Diaz: Hello
+Adam Ward: So that mean Stacy needs to go
+Kyle Mack: Hai
+Natasha Cooke votes for Stacy Dillon!
+Stacy Dillon votes for Michael Williams!
+Kyle Mack: No
+Adam Ward votes for Stacy Dillon!
+Stacy Dillon: you just know i'm not mafia so I'm being targeted
+Alicia Diaz votes for Michael Williams!
+Kyle Mack: The mafia is center of person
+Kyle Mack: the single person
+Michael Williams votes for Stacy Dillon!
+Kyle Mack: hello
+Kyle Mack: are you there
+Stacy Dillon: we just lost didn't we?
+Ashley Adams votes for Aaron Morse!
+Stacy Dillon: nice
+Phase Change to Nighttime: Victim - Stacy Dillon
+Players: ['Kyle Mack:town', 'Ashley Adams:town', 'Mary Arnold:town', 'Natasha Cooke:mafia', 'Adam Ward:town', 'Alicia Diaz:town', 'Stacy Dillon:town', 'Michael Williams:mafia', 'Aaron Morse:town']

@@ -1,0 +1,66 @@
+### code parses data from a ranks.txt file
+
+import re # regular expressions library
+from pprint import pprint # Helps debug dictionaries by displaying them nicely
+
+# the file we are going to parse for model responses.
+ranks_location="ranks.txt"
+
+# Open the text file containing the ranks.txt data
+with open(ranks_location, "r") as f:
+    # Read the contents of the file into a string
+    contents = f.read()
+
+# Split the string into individual blocks using tripple new lines as delimiters
+blocks = re.split("\n\n\n", contents)
+#pprint(blocks)
+
+def parse_players(players_string):
+    
+    # Remove the "{" and "}" from the ends of the string
+    players_string = players_string.replace("{", "").replace("}", "")
+    
+    # Split the string into list of individual player entries,
+    player_entries = players_string.split(", ")
+    #pprint(player_entries)
+    ## make a dictionary of players ##
+    players={}
+    for player in player_entries:
+        # Split at colon to get key-value pairs
+        key, value = player.split(":")
+        players[key.strip("\'")] = value.strip("\'") # Assign key value, quotes stripped
+            
+    return players
+
+# Initialize an empty list to store the dictionaries for each block
+dictionaries = []
+
+# Iterate over each block and extract the relevant information
+for block in blocks:
+    # Split the block into individual lines using new line characters as delimiters
+    lines = block.split("\n")
+    try:
+        # Extract the file name from the first line
+        file_name = re.search("File:\s*(\S+)", lines[0]).group(1)
+        print(file_name)
+        # Extract the session number from the second line
+        session = re.search("Session:\s*(\S+)", lines[1]).group(1)
+        
+        # Create a dictionary to store the information for this block
+        dictionary = {"file_name": file_name, "session": session}
+        
+        # Extract the list of players from the last line
+        players_line = lines[-1].strip()
+        players = parse_players(players_line) #re.search("\[(.*?)\]", players_line).group(1)
+        dictionary["Players"] = {player: role for player, role in zip(players, ["town" if i % 2 == 0 else "mafia" for i in range(len(players))])}
+        
+        # Extract the rank information from the block
+        ranks_line = lines[lines.index("Rank:") + 1].strip()
+        ranks = [player.strip() for player in ranks_line.split(",")]
+        dictionary["Ranks"] = {rank: i+1 for i, rank in enumerate(ranks)}
+        
+        # Add the dictionary to the list of dictionaries
+        dictionaries.append(dictionary)
+    except:
+      print("Could not parse this block.")
+

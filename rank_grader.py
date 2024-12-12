@@ -2,6 +2,7 @@
 
 import re # regular expressions library
 import os # for dealing with files
+import pandas as pd # for data
 from pprint import pprint # Helps debug dictionaries by displaying them nicely
 transcripts_folder = 'transcripts_new'
 
@@ -123,3 +124,5 @@ parsed_content = read_ranks_file(transcripts_folder)
 pprint(parsed_content)
 
 #pandas
+#ranks_df = pd.DataFrame.from_dict(parsed_content, orient='index')
+#ranks_df.set_index(['session','file_name']).sort_values(by='session')

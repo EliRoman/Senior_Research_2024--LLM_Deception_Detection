@@ -1,10 +1,10 @@
 #parses data from a ranks.txt file
 
 import re # regular expressions library
-import os
+import os # for dealing with files
 from pprint import pprint # Helps debug dictionaries by displaying them nicely
 
-# parse players string into dictionary
+# given players string return players dictionary
 def parse_players(players_string):
     
     # Remove the "{" and "}" from the ends of the string
@@ -17,10 +17,25 @@ def parse_players(players_string):
     players={}
     for player in player_entries:
         # Split at colon to get key-value pairs
-        key, value = player.split(":")
+        key, value = player.split(": ")
         players[key.strip("\'")] = value.strip("\'") # Assign key value, quotes stripped
             
     return players
+
+# given names and ranked list returns avg percentile of given names
+def average_percentile_rank(mafia_list, players):
+    # Find the rank of each mafia (their index in the players list)
+    mafia_ranks = [float(players.index(mafioso)) for mafioso in mafia_list]
+    
+    # Calculate the percentile of each rank
+    total_players = float(len(players))
+    mafia_percentiles = [(rank / total_players) * 100 for rank in mafia_ranks]
+    
+    # Calculate the average of the mafia_percentiles
+    average_mafia_percentile = sum(mafia_percentiles) / len(mafia_percentiles)
+    
+    # Return the average percentile rank of the mafia members
+    return average_mafia_percentile
 
 # given file location, return dictionary with file info
 def read_ranks_file(file_path):

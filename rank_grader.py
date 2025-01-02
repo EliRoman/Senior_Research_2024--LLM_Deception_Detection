@@ -1,12 +1,12 @@
 #parses data from a ranks.txt file
 
 import re # regular expressions library
-import os # for dealing with files
-import pandas as pd # for data
+import os # for file handling
+import pandas as pd # for dataset handling
 from pprint import pprint # Helps debug dictionaries by displaying them nicely
 transcripts_folder = 'transcripts_new'
 
-# given players string return players dictionary
+# returns a players dictionary made from the given players string
 def parse_players(players_string):
     
     # Remove the "{" and "}" from the ends of the string
@@ -14,21 +14,25 @@ def parse_players(players_string):
     
     # Split the string into list of individual player entries,
     player_entries = players_string.split(", ")
-    #pprint(player_entries)
+    #pprint(player_entries) # debugging: print player_entries list
+
     ## make a dictionary of players ##
     players={}
     for player in player_entries:
         # Split at colon to get key-value pairs
         key, value = player.split(": ")
-        players[key.strip("\'")] = value.strip("\'") # Assign key value, quotes stripped
+        # add key & value to players dictionary (w/ quotes removed)
+        players[key.strip("\'")] = value.strip("\'")
             
     return players
 
-# given names and ranked list returns avg percentile of given names# given names and ranked list returns avg percentile of given names
+# given names and ranked list, returns avg percentile of given names
 def average_percentile_rank(mafia_list, players):
-    #print(f"searching for {mafia_list} in {players}")
+    #print(f"searching for {mafia_list} in {players}") # debugging
+    
     # Find the rank of each mafia (their index in the players list)
     mafia_ranks = [float(players.index(mafioso)) for mafioso in mafia_list]
+
     # Calculate the percentile of each rank
     total_players = float(len(players))
     mafia_percentiles = [(rank / total_players) * 100 for rank in mafia_ranks]
@@ -39,34 +43,49 @@ def average_percentile_rank(mafia_list, players):
     # Return the average percentile rank of the mafia members
     return average_mafia_percentile
 
-# given file location, return dictionary with file info
+# given file path, return dictionary with file info
 def read_ranks_file(file_path):
+
+    #record location of ranks file given file path
     ranks_location = os.path.join(file_path, 'ranks.txt')
+
     # Check if the 'ranks.txt' file exists in the specified location
     if os.path.isfile(ranks_location):
+        # Read the contents of the file into a string variable
         with open(ranks_location, "r") as f:
-            # Read the contents of the file into a string
             contents = f.read()
     else:
         print(f"Error: 'ranks.txt' file not found in {file_path}")
         return None
     
-    # Split the string into individual blocks using tripple new lines as delimiters
+    # Split the contents into list of individual blocks; use tripple new lines as delimiters
     blocks = re.split("\n\n\n", contents)
-    #pprint(blocks[0])
+
+    #pprint(blocks[0]) #debugging: print first block as a sample
     
     # Initialize an empty dictionary to store the dictionaries for each block
     sessions = {}
     
     # Iterate over each block and extract the relevant information
     for block in blocks[:-1]:
+
         # Split the block into individual lines using new line characters as delimiters
         lines = block.split("\n")
-        #print("Block: ",end='')
+
+        #debugging: print the contents of the current block
+        #print("Block: ",end='') 
         #pprint(block)
+
+        '''
+        This try catch statement will attempt to break the block string into multiple varaibles.
+        If the text found is not exactly as expected it will throw an error.
+        If that happens a message will be shown and the block will not be recorded
+        and this session will be marked
+        '''
         try:
             # Extract the file name from the first line
             file_name = re.search("File:\s*(\S+)", lines[0]).group(1).strip(".txt")
+
             #print(f"parsing file:{file_name}...",end="")
             #pprint(f"contents: \n{lines}")
             
@@ -90,26 +109,32 @@ def read_ranks_file(file_path):
             mafia_list = [name for name, role in players.items() if role == 'mafia']
             dictionary["mafia"] = mafia_list
             
-            # Extract the rank information from the block
+            ### Extract the rank information from the block ###
             ranks = []
             n=0
             for name in players:
                 # find first mention of name. 
                 if re.search(r'\b' + re.escape(name) + r'\b', block):  # \b ensures whole word matching
-                    ranks.insert(n, name) #add them to the list in the correct position
+                    ranks.insert(n, name) # add name to the list in the correct position
                     n+=1
+            
             #Sort ranks dictionary
             #ranks = {k: v for k, v in sorted(ranks.items(), key=lambda item: item[1])}
+
             # save ranks to dictionary.
             dictionary["ranks"] = ranks
+
+            #debugging: print the contents of the ranks list
             #print("Ranks: ",end='')
             #print(ranks)
             
+            #find average percentile rank of the mafia and save to dictionary
             dictionary['avg_mafia_rank']= average_percentile_rank(mafia_list,ranks)
             
-            # Add this dictionary to the dictionary of sessions
+            # Add this files dictionary to the dictionary of sessions
             sessions[file_name]=dictionary
-            #print(f"parsed:{file_name}",end=". ")
+
+            #print(f"parsed:{file_name}",end=". ") #debugging
         except Exception as e:
             print(f"Could not parse this block: {str(e)}")
             pprint(block)
